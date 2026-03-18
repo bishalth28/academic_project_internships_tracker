@@ -1,0 +1,101 @@
+url,date_scraped,source,title,company,location,description,requirements,job_type
+https://app.joinhandshake.com/job-search/10523051,2025-12-11 09:50:06,Handshake,Front-End Web Developer Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10359553,2025-12-11 09:50:12,Handshake,UDRI SOC Analyst Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10538533,2025-12-11 09:50:18,Handshake,"Student Advocacy and Wellness, Raider Food Pantry, Office Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10486941,2025-12-11 09:50:24,Handshake,On-Site Part-Time Coding Instructor (Sensei),Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10360945,2025-12-11 09:50:30,Handshake,"Office of Disability Services, Scanner 2",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10560595,2025-12-11 09:50:36,Handshake,Marketing Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10552783,2025-12-11 09:50:41,Handshake,"Alumni Relations, Office/Events Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10533118,2025-12-11 09:50:47,Handshake,IT Technician Intern - Summer 2026,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10336954,2025-12-11 09:50:53,Handshake,"Office of Disability Services, Personal Assistant II",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10544993,2025-12-11 09:50:59,Handshake,"College of Liberal Arts, Peer Mentor",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship

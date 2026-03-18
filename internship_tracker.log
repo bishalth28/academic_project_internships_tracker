@@ -1,0 +1,1852 @@
+2025-12-10 20:22:28,875 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:22:40,241 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:22:40,242 - INFO - Setting up Chrome WebDriver...
+2025-12-10 20:22:40,242 - INFO - ====== WebDriver manager ======
+2025-12-10 20:22:41,042 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:22:41,186 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:22:41,307 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 20:22:43,458 - INFO - ✅ WebDriver setup successful
+2025-12-10 20:22:43,462 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 20:22:43,462 - INFO - 🔐 Logging in to Handshake...
+2025-12-10 20:22:43,464 - INFO - Usage logged: login - Starting login process
+2025-12-10 20:23:08,591 - ERROR - ❌ Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001048bad7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x00000001048b2c3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x00000001043aeb1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001043f59d8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688
+4   chromedriver                        0x0000000104436978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+5   chromedriver                        0x00000001043ea17c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+6   chromedriver                        0x000000010487f2cc cxxbridge1$str$ptr + 2783612
+7   chromedriver                        0x0000000104882a30 cxxbridge1$str$ptr + 2797792
+8   chromedriver                        0x000000010485f560 cxxbridge1$str$ptr + 2653200
+9   chromedriver                        0x00000001048832a0 cxxbridge1$str$ptr + 2799952
+10  chromedriver                        0x000000010484ff30 cxxbridge1$str$ptr + 2590176
+11  chromedriver                        0x00000001048a21b8 cxxbridge1$str$ptr + 2926696
+12  chromedriver                        0x00000001048a2338 cxxbridge1$str$ptr + 2927080
+13  chromedriver                        0x00000001048b2894 cxxbridge1$str$ptr + 2993988
+14  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+
+2025-12-10 20:23:08,595 - INFO - Usage logged: login - Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001048bad7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x00000001048b2c3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x00000001043aeb1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001043f59d8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688
+4   chromedriver                        0x0000000104436978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+5   chromedriver                        0x00000001043ea17c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+6   chromedriver                        0x000000010487f2cc cxxbridge1$str$ptr + 2783612
+7   chromedriver                        0x0000000104882a30 cxxbridge1$str$ptr + 2797792
+8   chromedriver                        0x000000010485f560 cxxbridge1$str$ptr + 2653200
+9   chromedriver                        0x00000001048832a0 cxxbridge1$str$ptr + 2799952
+10  chromedriver                        0x000000010484ff30 cxxbridge1$str$ptr + 2590176
+11  chromedriver                        0x00000001048a21b8 cxxbridge1$str$ptr + 2926696
+12  chromedriver                        0x00000001048a2338 cxxbridge1$str$ptr + 2927080
+13  chromedriver                        0x00000001048b2894 cxxbridge1$str$ptr + 2993988
+14  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+
+2025-12-10 20:23:08,596 - INFO - 🔒 Closing browser...
+2025-12-10 20:23:08,712 - INFO - Usage logged: close - Browser closed
+2025-12-10 20:23:16,134 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:23:16,134 - INFO - Setting up Chrome WebDriver...
+2025-12-10 20:23:16,134 - INFO - ====== WebDriver manager ======
+2025-12-10 20:23:16,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:23:16,803 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:23:17,209 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 20:23:18,369 - INFO - ✅ WebDriver setup successful
+2025-12-10 20:23:18,372 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 20:23:18,372 - INFO - 🔐 Logging in to Handshake...
+2025-12-10 20:23:18,373 - INFO - Usage logged: login - Starting login process
+2025-12-10 20:23:43,464 - ERROR - ❌ Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105286d7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x000000010527ec3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x0000000104d7ab1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x0000000104dc19d8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688
+4   chromedriver                        0x0000000104e02978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+5   chromedriver                        0x0000000104db617c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+6   chromedriver                        0x000000010524b2cc cxxbridge1$str$ptr + 2783612
+7   chromedriver                        0x000000010524ea30 cxxbridge1$str$ptr + 2797792
+8   chromedriver                        0x000000010522b560 cxxbridge1$str$ptr + 2653200
+9   chromedriver                        0x000000010524f2a0 cxxbridge1$str$ptr + 2799952
+10  chromedriver                        0x000000010521bf30 cxxbridge1$str$ptr + 2590176
+11  chromedriver                        0x000000010526e1b8 cxxbridge1$str$ptr + 2926696
+12  chromedriver                        0x000000010526e338 cxxbridge1$str$ptr + 2927080
+13  chromedriver                        0x000000010527e894 cxxbridge1$str$ptr + 2993988
+14  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+
+2025-12-10 20:23:43,468 - INFO - Usage logged: login - Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105286d7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x000000010527ec3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x0000000104d7ab1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x0000000104dc19d8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688
+4   chromedriver                        0x0000000104e02978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+5   chromedriver                        0x0000000104db617c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+6   chromedriver                        0x000000010524b2cc cxxbridge1$str$ptr + 2783612
+7   chromedriver                        0x000000010524ea30 cxxbridge1$str$ptr + 2797792
+8   chromedriver                        0x000000010522b560 cxxbridge1$str$ptr + 2653200
+9   chromedriver                        0x000000010524f2a0 cxxbridge1$str$ptr + 2799952
+10  chromedriver                        0x000000010521bf30 cxxbridge1$str$ptr + 2590176
+11  chromedriver                        0x000000010526e1b8 cxxbridge1$str$ptr + 2926696
+12  chromedriver                        0x000000010526e338 cxxbridge1$str$ptr + 2927080
+13  chromedriver                        0x000000010527e894 cxxbridge1$str$ptr + 2993988
+14  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+
+2025-12-10 20:23:43,468 - INFO - 🔒 Closing browser...
+2025-12-10 20:23:43,584 - INFO - Usage logged: close - Browser closed
+2025-12-10 20:28:29,088 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:28:29,088 - INFO - Setting up Chrome WebDriver...
+2025-12-10 20:28:29,088 - INFO - ====== WebDriver manager ======
+2025-12-10 20:28:30,371 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:28:30,580 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:28:30,955 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 20:28:33,369 - INFO - ✅ WebDriver setup successful
+2025-12-10 20:28:33,371 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 20:28:33,371 - INFO - 🔐 Logging in to Handshake...
+2025-12-10 20:28:33,371 - INFO - Usage logged: login - Starting login process
+2025-12-10 20:29:00,559 - ERROR - ❌ Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100c66d7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x0000000100c5ec3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x000000010075ab1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001007a19d8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688
+4   chromedriver                        0x00000001007e2978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+5   chromedriver                        0x000000010079617c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+6   chromedriver                        0x0000000100c2b2cc cxxbridge1$str$ptr + 2783612
+7   chromedriver                        0x0000000100c2ea30 cxxbridge1$str$ptr + 2797792
+8   chromedriver                        0x0000000100c0b560 cxxbridge1$str$ptr + 2653200
+9   chromedriver                        0x0000000100c2f2a0 cxxbridge1$str$ptr + 2799952
+10  chromedriver                        0x0000000100bfbf30 cxxbridge1$str$ptr + 2590176
+11  chromedriver                        0x0000000100c4e1b8 cxxbridge1$str$ptr + 2926696
+12  chromedriver                        0x0000000100c4e338 cxxbridge1$str$ptr + 2927080
+13  chromedriver                        0x0000000100c5e894 cxxbridge1$str$ptr + 2993988
+14  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+
+2025-12-10 20:29:00,561 - INFO - Usage logged: login - Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100c66d7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x0000000100c5ec3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x000000010075ab1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001007a19d8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688
+4   chromedriver                        0x00000001007e2978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+5   chromedriver                        0x000000010079617c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+6   chromedriver                        0x0000000100c2b2cc cxxbridge1$str$ptr + 2783612
+7   chromedriver                        0x0000000100c2ea30 cxxbridge1$str$ptr + 2797792
+8   chromedriver                        0x0000000100c0b560 cxxbridge1$str$ptr + 2653200
+9   chromedriver                        0x0000000100c2f2a0 cxxbridge1$str$ptr + 2799952
+10  chromedriver                        0x0000000100bfbf30 cxxbridge1$str$ptr + 2590176
+11  chromedriver                        0x0000000100c4e1b8 cxxbridge1$str$ptr + 2926696
+12  chromedriver                        0x0000000100c4e338 cxxbridge1$str$ptr + 2927080
+13  chromedriver                        0x0000000100c5e894 cxxbridge1$str$ptr + 2993988
+14  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+
+2025-12-10 20:29:00,561 - INFO - 🔒 Closing browser...
+2025-12-10 20:29:00,670 - INFO - Usage logged: close - Browser closed
+2025-12-10 20:29:12,723 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:30:01,919 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:30:01,920 - INFO - Setting up Chrome WebDriver...
+2025-12-10 20:30:01,920 - INFO - ====== WebDriver manager ======
+2025-12-10 20:30:02,561 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:30:02,722 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:30:02,870 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 20:30:04,801 - INFO - ✅ WebDriver setup successful
+2025-12-10 20:30:04,803 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 20:30:04,803 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 20:30:04,805 - INFO - Usage logged: login - Starting login process
+2025-12-10 20:30:04,805 - INFO - Step 1: Going to Handshake...
+2025-12-10 20:30:09,013 - INFO - Step 2: Looking for school selection...
+2025-12-10 20:30:15,251 - INFO - ✓ Found school search field
+2025-12-10 20:30:15,383 - INFO - ✓ Entered school name
+2025-12-10 20:30:22,558 - INFO - No school search needed, proceeding... (Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+0   chromedriver                        0x000000010320ad7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x0000000103202c3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x0000000102cfeb1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x0000000102d049dc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 98452
+4   chromedriver                        0x0000000102d06ac4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 106876
+5   chromedriver                        0x0000000102d06b7c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 107060
+6   chromedriver                        0x0000000102d465bc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 367732
+7   chromedriver                        0x0000000102d46638 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 367856
+8   chromedriver                        0x0000000102d3e820 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 335576
+9   chromedriver                        0x0000000102d3b758 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 323088
+10  chromedriver                        0x0000000102d86978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+11  chromedriver                        0x0000000102d3a17c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+12  chromedriver                        0x00000001031cf2cc cxxbridge1$str$ptr + 2783612
+13  chromedriver                        0x00000001031d2a30 cxxbridge1$str$ptr + 2797792
+14  chromedriver                        0x00000001031af560 cxxbridge1$str$ptr + 2653200
+15  chromedriver                        0x00000001031d32a0 cxxbridge1$str$ptr + 2799952
+16  chromedriver                        0x000000010319ff30 cxxbridge1$str$ptr + 2590176
+17  chromedriver                        0x00000001031f21b8 cxxbridge1$str$ptr + 2926696
+18  chromedriver                        0x00000001031f2338 cxxbridge1$str$ptr + 2927080
+19  chromedriver                        0x0000000103202894 cxxbridge1$str$ptr + 2993988
+20  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+)
+2025-12-10 20:30:22,559 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 20:30:24,573 - INFO - Looking for email input...
+2025-12-10 20:30:24,633 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 20:30:27,168 - INFO - ✓ Submitted email
+2025-12-10 20:30:30,884 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 20:30:33,889 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 20:30:47,285 - INFO - ✓ Username entered
+2025-12-10 20:30:47,400 - INFO - ✓ Password entered
+2025-12-10 20:30:47,413 - INFO - ✓ Form submitted
+2025-12-10 20:30:57,431 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 20:30:57,438 - INFO - Usage logged: login - Login successful
+2025-12-10 20:30:57,438 - INFO - Navigating to postings page...
+2025-12-10 20:31:25,790 - INFO - 🔍 Searching for: Computer Science Ohio
+2025-12-10 20:31:25,792 - INFO - Usage logged: search - Searching: Computer Science Ohio, Pages: 2
+2025-12-10 20:31:33,223 - INFO - 📄 Scraping page 1/2
+2025-12-10 20:31:36,244 - INFO - ✓ Found 0 jobs so far
+2025-12-10 20:31:36,256 - INFO - ✅ Total jobs found: 0
+2025-12-10 20:31:36,258 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 20:31:36,258 - INFO - 🔒 Closing browser...
+2025-12-10 20:31:36,454 - INFO - Usage logged: close - Browser closed
+2025-12-10 20:36:03,187 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:36:03,188 - INFO - Setting up Chrome WebDriver...
+2025-12-10 20:36:03,188 - INFO - ====== WebDriver manager ======
+2025-12-10 20:36:03,908 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:36:04,075 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:36:04,210 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 20:36:06,061 - INFO - ✅ WebDriver setup successful
+2025-12-10 20:36:06,064 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 20:36:06,064 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 20:36:06,065 - INFO - Usage logged: login - Starting login process
+2025-12-10 20:36:06,065 - INFO - Step 1: Going to Handshake...
+2025-12-10 20:36:10,061 - INFO - Step 2: Looking for school selection...
+2025-12-10 20:36:16,977 - INFO - ✓ Found school search field
+2025-12-10 20:36:17,547 - INFO - ✓ Entered school name
+2025-12-10 20:36:24,878 - INFO - ✓ Pressed Enter on school search
+2025-12-10 20:36:27,884 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 20:36:29,942 - INFO - Looking for email input...
+2025-12-10 20:36:30,170 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 20:36:34,552 - INFO - ✓ Submitted email
+2025-12-10 20:36:38,596 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 20:36:41,602 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 20:36:54,985 - INFO - ✓ Username entered
+2025-12-10 20:36:55,099 - INFO - ✓ Password entered
+2025-12-10 20:36:55,227 - INFO - ✓ Form submitted
+2025-12-10 20:37:05,245 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 20:37:05,252 - INFO - Usage logged: login - Login successful
+2025-12-10 20:37:05,252 - INFO - Navigating to postings page...
+2025-12-10 20:37:09,534 - INFO - 🔍 Searching for: Computer Science Remote
+2025-12-10 20:37:09,537 - INFO - Usage logged: search - Searching: Computer Science Remote, Pages: 2
+2025-12-10 20:37:16,812 - INFO - 📄 Scraping page 1/2
+2025-12-10 20:37:19,833 - INFO - ✓ Found 0 jobs so far
+2025-12-10 20:37:19,845 - INFO - ✅ Total jobs found: 0
+2025-12-10 20:37:19,847 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 20:37:19,848 - INFO - 🔒 Closing browser...
+2025-12-10 20:37:20,021 - INFO - Usage logged: close - Browser closed
+2025-12-10 20:56:08,841 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 20:56:08,842 - INFO - Setting up Chrome WebDriver...
+2025-12-10 20:56:08,842 - INFO - ====== WebDriver manager ======
+2025-12-10 20:56:09,882 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:56:10,732 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 20:56:11,217 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 20:56:13,476 - INFO - ✅ WebDriver setup successful
+2025-12-10 20:56:13,478 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 20:56:13,479 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 20:56:13,479 - INFO - Usage logged: login - Starting login process
+2025-12-10 20:56:13,480 - INFO - Step 1: Going to Handshake...
+2025-12-10 20:56:19,719 - INFO - Step 2: Looking for school selection...
+2025-12-10 20:56:26,556 - INFO - ✓ Found school search field
+2025-12-10 20:56:27,105 - INFO - ✓ Entered school name
+2025-12-10 20:56:34,726 - INFO - ✓ Pressed Enter on school search
+2025-12-10 20:56:37,731 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 20:56:39,761 - INFO - Looking for email input...
+2025-12-10 20:56:40,194 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 20:56:42,960 - INFO - ✓ Submitted email
+2025-12-10 20:56:47,214 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 20:56:50,220 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 20:57:03,608 - INFO - ✓ Username entered
+2025-12-10 20:57:03,717 - INFO - ✓ Password entered
+2025-12-10 20:57:03,730 - INFO - ✓ Form submitted
+2025-12-10 20:57:13,747 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 20:57:13,751 - INFO - Usage logged: login - Login successful
+2025-12-10 20:57:13,752 - INFO - Navigating to postings page...
+2025-12-10 20:57:17,864 - INFO - 🔍 Searching for: Computer Science ohio
+2025-12-10 20:57:17,868 - INFO - Usage logged: search - Searching: Computer Science ohio, Pages: 5
+2025-12-10 20:57:25,253 - INFO - 📄 Scraping page 1/5
+2025-12-10 20:57:28,276 - INFO - ✓ Found 0 jobs so far
+2025-12-10 20:57:28,288 - INFO - ✅ Total jobs found: 0
+2025-12-10 20:57:28,290 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 20:57:28,290 - INFO - 🔒 Closing browser...
+2025-12-10 20:57:28,449 - INFO - Usage logged: close - Browser closed
+2025-12-10 21:11:00,016 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 21:11:00,017 - INFO - Setting up Chrome WebDriver...
+2025-12-10 21:11:00,017 - INFO - ====== WebDriver manager ======
+2025-12-10 21:11:01,239 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:11:01,404 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:11:01,544 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 21:11:03,971 - INFO - ✅ WebDriver setup successful
+2025-12-10 21:11:03,974 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 21:11:03,975 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 21:11:03,976 - INFO - Usage logged: login - Starting login process
+2025-12-10 21:11:03,976 - INFO - Step 1: Going to Handshake...
+2025-12-10 21:11:07,988 - INFO - Step 2: Looking for school selection...
+2025-12-10 21:11:14,215 - INFO - ✓ Found school search field
+2025-12-10 21:11:14,360 - INFO - ✓ Entered school name
+2025-12-10 21:11:21,542 - INFO - ✓ Pressed Enter on school search
+2025-12-10 21:11:24,547 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 21:11:26,560 - INFO - Looking for email input...
+2025-12-10 21:11:26,619 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 21:11:30,112 - INFO - ✓ Submitted email
+2025-12-10 21:11:33,788 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 21:11:36,794 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 21:11:50,177 - INFO - ✓ Username entered
+2025-12-10 21:11:50,230 - INFO - ✓ Password entered
+2025-12-10 21:11:50,243 - INFO - ✓ Form submitted
+2025-12-10 21:12:00,264 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 21:12:00,268 - INFO - Usage logged: login - Login successful
+2025-12-10 21:12:00,268 - INFO - Navigating to postings page...
+2025-12-10 21:12:04,478 - INFO - 🔍 Searching for: Computer Science Remote
+2025-12-10 21:12:04,479 - INFO - Usage logged: search - Searching: Computer Science Remote, Pages: 5
+2025-12-10 21:12:04,482 - INFO - Current URL: https://app.joinhandshake.com/job-search/10538533?page=1&per_page=25
+2025-12-10 21:12:04,482 - INFO - Navigating to postings page...
+2025-12-10 21:12:10,570 - INFO - Page title: Jobs | Handshake
+2025-12-10 21:12:10,915 - INFO - ✓ Entered search: Computer Science Remote
+2025-12-10 21:12:12,181 - INFO - ✓ Pressed Enter
+2025-12-10 21:12:17,187 - INFO - 📄 Scraping page 1/5
+2025-12-10 21:12:20,303 - WARNING - No job links found on this page
+2025-12-10 21:12:20,303 - INFO - Trying to find any links on page...
+2025-12-10 21:12:20,313 - INFO - Total links on page: 69
+2025-12-10 21:12:20,318 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10538533?query=Computer+Science+Remote&per_page=25&sort=relevance&page=1#skip-to-content
+2025-12-10 21:12:20,321 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:12:20,324 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:12:20,326 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:12:20,329 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:12:20,332 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:12:20,334 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:12:20,337 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:12:20,340 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:12:20,343 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:12:20,525 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:12:20,525 - WARNING - No jobs found on first page. Saving page source for debugging...
+2025-12-10 21:12:20,560 - INFO - Saved page source to debug_page_source.html
+2025-12-10 21:12:20,572 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:12:20,762 - INFO - ✓ Clicked next page
+2025-12-10 21:12:25,764 - INFO - 📄 Scraping page 2/5
+2025-12-10 21:12:28,806 - WARNING - No job links found on this page
+2025-12-10 21:12:28,806 - INFO - Trying to find any links on page...
+2025-12-10 21:12:28,815 - INFO - Total links on page: 69
+2025-12-10 21:12:28,818 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10348591?query=Computer+Science+Remote&per_page=25&sort=relevance&page=2#skip-to-content
+2025-12-10 21:12:28,821 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:12:28,824 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:12:28,827 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:12:28,830 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:12:28,833 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:12:28,836 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:12:28,839 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:12:28,842 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:12:28,845 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:12:29,032 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:12:29,041 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:12:29,344 - INFO - ✓ Clicked next page
+2025-12-10 21:12:34,345 - INFO - 📄 Scraping page 3/5
+2025-12-10 21:12:37,386 - WARNING - No job links found on this page
+2025-12-10 21:12:37,387 - INFO - Trying to find any links on page...
+2025-12-10 21:12:37,394 - INFO - Total links on page: 67
+2025-12-10 21:12:37,398 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10417808?query=Computer+Science+Remote&per_page=25&sort=relevance&page=3#skip-to-content
+2025-12-10 21:12:37,401 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:12:37,404 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:12:37,407 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:12:37,410 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:12:37,413 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:12:37,416 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:12:37,418 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:12:37,421 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:12:37,423 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:12:37,600 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:12:37,608 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:12:37,886 - INFO - ✓ Clicked next page
+2025-12-10 21:12:42,889 - INFO - 📄 Scraping page 4/5
+2025-12-10 21:12:45,941 - WARNING - No job links found on this page
+2025-12-10 21:12:45,941 - INFO - Trying to find any links on page...
+2025-12-10 21:12:45,994 - INFO - Total links on page: 59
+2025-12-10 21:12:46,045 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10356689?query=Computer+Science+Remote&per_page=25&sort=relevance&page=4#skip-to-content
+2025-12-10 21:12:46,088 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:12:46,094 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:12:46,097 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:12:46,101 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:12:46,103 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:12:46,106 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:12:46,109 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:12:46,112 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:12:46,115 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:12:46,270 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:12:46,280 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:12:46,474 - INFO - ✓ Clicked next page
+2025-12-10 21:12:51,479 - INFO - 📄 Scraping page 5/5
+2025-12-10 21:12:54,514 - WARNING - No job links found on this page
+2025-12-10 21:12:54,515 - INFO - Trying to find any links on page...
+2025-12-10 21:12:54,523 - INFO - Total links on page: 66
+2025-12-10 21:12:54,527 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10237083?query=Computer+Science+Remote&per_page=25&sort=relevance&page=5#skip-to-content
+2025-12-10 21:12:54,530 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:12:54,533 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:12:54,536 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:12:54,538 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:12:54,541 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:12:54,543 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:12:54,546 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:12:54,550 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:12:54,552 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:12:54,723 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:12:54,723 - INFO - ✅ Total jobs found: 0
+2025-12-10 21:12:54,726 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 21:12:54,732 - INFO - 🔒 Closing browser...
+2025-12-10 21:12:54,973 - INFO - Usage logged: close - Browser closed
+2025-12-10 21:13:37,449 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 21:13:37,450 - INFO - Setting up Chrome WebDriver...
+2025-12-10 21:13:37,450 - INFO - ====== WebDriver manager ======
+2025-12-10 21:13:38,012 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:13:38,206 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:13:38,386 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 21:13:40,634 - INFO - ✅ WebDriver setup successful
+2025-12-10 21:13:40,641 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 21:13:40,641 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 21:13:40,646 - INFO - Usage logged: login - Starting login process
+2025-12-10 21:13:40,647 - INFO - Step 1: Going to Handshake...
+2025-12-10 21:13:44,678 - INFO - Step 2: Looking for school selection...
+2025-12-10 21:13:50,887 - INFO - ✓ Found school search field
+2025-12-10 21:13:51,029 - INFO - ✓ Entered school name
+2025-12-10 21:13:58,207 - INFO - ✓ Pressed Enter on school search
+2025-12-10 21:14:01,209 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 21:14:03,222 - INFO - Looking for email input...
+2025-12-10 21:14:03,280 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 21:14:05,841 - INFO - ✓ Submitted email
+2025-12-10 21:14:09,631 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 21:14:12,636 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 21:14:26,024 - INFO - ✓ Username entered
+2025-12-10 21:14:26,072 - INFO - ✓ Password entered
+2025-12-10 21:14:26,084 - INFO - ✓ Form submitted
+2025-12-10 21:14:36,104 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 21:14:36,109 - INFO - Usage logged: login - Login successful
+2025-12-10 21:14:36,109 - INFO - Navigating to postings page...
+2025-12-10 21:14:40,784 - INFO - 🔍 Searching for: Computer Scientist
+2025-12-10 21:14:40,788 - INFO - Usage logged: search - Searching: Computer Scientist, Pages: 5
+2025-12-10 21:14:40,793 - INFO - Current URL: https://app.joinhandshake.com/job-search/10538533?page=1&per_page=25
+2025-12-10 21:14:40,793 - INFO - Navigating to postings page...
+2025-12-10 21:14:47,129 - INFO - Page title: Jobs | Handshake
+2025-12-10 21:14:47,400 - INFO - ✓ Entered search: Computer Scientist
+2025-12-10 21:14:48,655 - INFO - ✓ Pressed Enter
+2025-12-10 21:14:53,660 - INFO - 📄 Scraping page 1/5
+2025-12-10 21:14:56,714 - WARNING - No job links found on this page
+2025-12-10 21:14:56,715 - INFO - Trying to find any links on page...
+2025-12-10 21:14:56,725 - INFO - Total links on page: 69
+2025-12-10 21:14:56,730 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10538533?query=Computer+Scientist&per_page=25&sort=relevance&page=1#skip-to-content
+2025-12-10 21:14:56,733 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:14:56,736 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:14:56,739 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:14:56,742 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:14:56,745 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:14:56,748 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:14:56,751 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:14:56,754 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:14:56,757 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:14:56,940 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:14:56,940 - WARNING - No jobs found on first page. Saving page source for debugging...
+2025-12-10 21:14:56,977 - INFO - Saved page source to debug_page_source.html
+2025-12-10 21:14:56,988 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:14:57,330 - INFO - ✓ Clicked next page
+2025-12-10 21:15:02,335 - INFO - 📄 Scraping page 2/5
+2025-12-10 21:15:05,375 - WARNING - No job links found on this page
+2025-12-10 21:15:05,377 - INFO - Trying to find any links on page...
+2025-12-10 21:15:05,385 - INFO - Total links on page: 71
+2025-12-10 21:15:05,389 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10533118?query=Computer+Scientist&per_page=25&sort=relevance&page=2#skip-to-content
+2025-12-10 21:15:05,392 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:15:05,395 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:15:05,398 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:15:05,401 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:15:05,404 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:15:05,406 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:15:05,409 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:15:05,412 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:15:05,415 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:15:05,612 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:15:05,620 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:15:05,784 - INFO - ✓ Clicked next page
+2025-12-10 21:15:10,789 - INFO - 📄 Scraping page 3/5
+2025-12-10 21:15:13,821 - WARNING - No job links found on this page
+2025-12-10 21:15:13,821 - INFO - Trying to find any links on page...
+2025-12-10 21:15:13,828 - INFO - Total links on page: 69
+2025-12-10 21:15:13,831 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10435894?query=Computer+Scientist&per_page=25&sort=relevance&page=3#skip-to-content
+2025-12-10 21:15:13,834 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:15:13,836 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:15:13,839 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:15:13,842 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:15:13,845 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:15:13,848 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:15:13,851 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:15:13,853 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:15:13,856 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:15:14,043 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:15:14,051 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:15:14,258 - INFO - ✓ Clicked next page
+2025-12-10 21:15:19,263 - INFO - 📄 Scraping page 4/5
+2025-12-10 21:15:22,303 - WARNING - No job links found on this page
+2025-12-10 21:15:22,303 - INFO - Trying to find any links on page...
+2025-12-10 21:15:22,310 - INFO - Total links on page: 60
+2025-12-10 21:15:22,314 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10478391?query=Computer+Scientist&per_page=25&sort=relevance&page=4#skip-to-content
+2025-12-10 21:15:22,317 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:15:22,320 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:15:22,323 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:15:22,326 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:15:22,329 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:15:22,332 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:15:22,335 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:15:22,338 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:15:22,341 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:15:22,582 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:15:22,590 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:15:22,788 - INFO - ✓ Clicked next page
+2025-12-10 21:15:27,794 - INFO - 📄 Scraping page 5/5
+2025-12-10 21:15:30,834 - WARNING - No job links found on this page
+2025-12-10 21:15:30,835 - INFO - Trying to find any links on page...
+2025-12-10 21:15:30,843 - INFO - Total links on page: 66
+2025-12-10 21:15:30,847 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10560390?query=Computer+Scientist&per_page=25&sort=relevance&page=5#skip-to-content
+2025-12-10 21:15:30,850 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:15:30,853 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:15:30,855 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:15:30,858 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:15:30,861 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:15:30,864 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:15:30,867 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:15:30,870 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:15:30,873 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:15:31,154 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:15:31,154 - INFO - ✅ Total jobs found: 0
+2025-12-10 21:15:31,156 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 21:15:31,165 - INFO - 🔒 Closing browser...
+2025-12-10 21:15:31,366 - INFO - Usage logged: close - Browser closed
+2025-12-10 21:18:15,288 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 21:18:15,289 - INFO - Setting up Chrome WebDriver...
+2025-12-10 21:18:15,289 - INFO - ====== WebDriver manager ======
+2025-12-10 21:18:15,818 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:18:15,968 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:18:16,118 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 21:18:18,323 - INFO - ✅ WebDriver setup successful
+2025-12-10 21:18:18,325 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 21:18:18,325 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 21:18:18,326 - INFO - Usage logged: login - Starting login process
+2025-12-10 21:18:18,327 - INFO - Step 1: Going to Handshake...
+2025-12-10 21:18:22,605 - INFO - Step 2: Looking for school selection...
+2025-12-10 21:18:28,799 - INFO - ✓ Found school search field
+2025-12-10 21:18:28,931 - INFO - ✓ Entered school name
+2025-12-10 21:18:36,120 - INFO - ✓ Pressed Enter on school search
+2025-12-10 21:18:39,125 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 21:18:41,136 - INFO - Looking for email input...
+2025-12-10 21:18:41,195 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 21:18:44,655 - INFO - ✓ Submitted email
+2025-12-10 21:18:48,480 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 21:18:51,485 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 21:19:04,894 - INFO - ✓ Username entered
+2025-12-10 21:19:04,945 - INFO - ✓ Password entered
+2025-12-10 21:19:04,959 - INFO - ✓ Form submitted
+2025-12-10 21:19:14,976 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 21:19:14,982 - INFO - Usage logged: login - Login successful
+2025-12-10 21:19:14,982 - INFO - Navigating to postings page...
+2025-12-10 21:19:19,865 - INFO - 🔍 Searching for: Enterprise IT Intern
+2025-12-10 21:19:19,867 - INFO - Usage logged: search - Searching: Enterprise IT Intern, Pages: 2
+2025-12-10 21:19:19,870 - INFO - Current URL: https://app.joinhandshake.com/job-search/10538533?page=1&per_page=25
+2025-12-10 21:19:19,870 - INFO - Navigating to postings page...
+2025-12-10 21:19:25,686 - INFO - Page title: Jobs | Handshake
+2025-12-10 21:19:26,021 - INFO - ✓ Entered search: Enterprise IT Intern
+2025-12-10 21:19:27,284 - INFO - ✓ Pressed Enter
+2025-12-10 21:19:32,285 - INFO - 📄 Scraping page 1/2
+2025-12-10 21:19:35,339 - WARNING - No job links found on this page
+2025-12-10 21:19:35,339 - INFO - Trying to find any links on page...
+2025-12-10 21:19:35,350 - INFO - Total links on page: 69
+2025-12-10 21:19:35,354 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10538533?query=Enterprise+IT+Intern&per_page=25&sort=relevance&page=1#skip-to-content
+2025-12-10 21:19:35,357 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:19:35,360 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:19:35,363 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:19:35,366 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:19:35,369 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:19:35,372 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:19:35,375 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:19:35,378 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:19:35,381 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:19:35,565 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:19:35,565 - WARNING - No jobs found on first page. Saving page source for debugging...
+2025-12-10 21:19:35,600 - INFO - Saved page source to debug_page_source.html
+2025-12-10 21:19:35,611 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:19:35,947 - INFO - ✓ Clicked next page
+2025-12-10 21:19:40,952 - INFO - 📄 Scraping page 2/2
+2025-12-10 21:19:43,990 - WARNING - No job links found on this page
+2025-12-10 21:19:43,990 - INFO - Trying to find any links on page...
+2025-12-10 21:19:43,998 - INFO - Total links on page: 68
+2025-12-10 21:19:44,001 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10299900?query=Enterprise+IT+Intern&per_page=25&sort=relevance&page=2#skip-to-content
+2025-12-10 21:19:44,004 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:19:44,007 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:19:44,010 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:19:44,013 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:19:44,016 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:19:44,019 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:19:44,022 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:19:44,025 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:19:44,028 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:19:44,207 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:19:44,207 - INFO - ✅ Total jobs found: 0
+2025-12-10 21:19:44,209 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 21:19:44,212 - INFO - 🔒 Closing browser...
+2025-12-10 21:19:44,379 - INFO - Usage logged: close - Browser closed
+2025-12-10 21:31:25,196 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 21:31:25,197 - INFO - Setting up Chrome WebDriver...
+2025-12-10 21:31:25,197 - INFO - ====== WebDriver manager ======
+2025-12-10 21:31:25,761 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:31:26,053 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:31:26,261 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 21:31:28,619 - INFO - ✅ WebDriver setup successful
+2025-12-10 21:31:28,628 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 21:31:28,629 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 21:31:28,631 - INFO - Usage logged: login - Starting login process
+2025-12-10 21:31:28,631 - INFO - Step 1: Going to Handshake...
+2025-12-10 21:31:32,735 - INFO - Step 2: Looking for school selection...
+2025-12-10 21:31:38,976 - INFO - ✓ Found school search field
+2025-12-10 21:31:39,223 - INFO - ✓ Entered school name
+2025-12-10 21:31:46,407 - INFO - ✓ Pressed Enter on school search
+2025-12-10 21:31:49,413 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 21:31:51,423 - INFO - Looking for email input...
+2025-12-10 21:31:51,489 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 21:31:54,070 - INFO - ✓ Submitted email
+2025-12-10 21:31:57,855 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 21:32:00,861 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 21:32:14,241 - INFO - ✓ Username entered
+2025-12-10 21:32:14,361 - INFO - ✓ Password entered
+2025-12-10 21:32:14,377 - INFO - ✓ Form submitted
+2025-12-10 21:32:24,397 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 21:32:24,406 - INFO - Usage logged: login - Login successful
+2025-12-10 21:32:24,406 - INFO - Navigating to postings page...
+2025-12-10 21:32:28,705 - INFO - 🔍 Searching for: Computer Science
+2025-12-10 21:32:28,707 - INFO - Usage logged: search - Searching: Computer Science, Pages: 5
+2025-12-10 21:32:28,709 - INFO - Current URL: https://app.joinhandshake.com/job-search/10538533?page=1&per_page=25
+2025-12-10 21:32:28,709 - INFO - Navigating to postings page...
+2025-12-10 21:32:35,110 - INFO - Page title: Jobs | Handshake
+2025-12-10 21:32:35,409 - INFO - ✓ Entered search: Computer Science
+2025-12-10 21:32:36,674 - INFO - ✓ Pressed Enter
+2025-12-10 21:32:41,681 - INFO - 📄 Scraping page 1/5
+2025-12-10 21:32:44,759 - WARNING - No job links found on this page
+2025-12-10 21:32:44,760 - INFO - Trying to find any links on page...
+2025-12-10 21:32:44,777 - INFO - Total links on page: 69
+2025-12-10 21:32:44,782 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10538533?query=Computer+Science&per_page=25&sort=relevance&page=1#skip-to-content
+2025-12-10 21:32:44,785 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:32:44,788 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:32:44,791 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:32:44,794 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:32:44,797 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:32:44,800 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:32:44,802 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:32:44,805 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:32:44,807 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:32:45,017 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:32:45,017 - WARNING - No jobs found on first page. Saving page source for debugging...
+2025-12-10 21:32:45,063 - INFO - Saved page source to debug_page_source.html
+2025-12-10 21:32:45,078 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:32:45,522 - INFO - ✓ Clicked next page
+2025-12-10 21:32:50,528 - INFO - 📄 Scraping page 2/5
+2025-12-10 21:32:53,565 - WARNING - No job links found on this page
+2025-12-10 21:32:53,565 - INFO - Trying to find any links on page...
+2025-12-10 21:32:53,573 - INFO - Total links on page: 69
+2025-12-10 21:32:53,577 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10359553?query=Computer+Science&per_page=25&sort=relevance&page=2#skip-to-content
+2025-12-10 21:32:53,580 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:32:53,582 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:32:53,585 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:32:53,588 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:32:53,590 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:32:53,593 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:32:53,597 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:32:53,600 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:32:53,603 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:32:53,790 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:32:53,798 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:32:54,038 - INFO - ✓ Clicked next page
+2025-12-10 21:32:59,043 - INFO - 📄 Scraping page 3/5
+2025-12-10 21:33:02,164 - WARNING - No job links found on this page
+2025-12-10 21:33:02,164 - INFO - Trying to find any links on page...
+2025-12-10 21:33:02,171 - INFO - Total links on page: 68
+2025-12-10 21:33:02,174 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10520674?query=Computer+Science&per_page=25&sort=relevance&page=3#skip-to-content
+2025-12-10 21:33:02,177 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:33:02,180 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:33:02,183 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:33:02,186 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:33:02,189 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:33:02,191 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:33:02,194 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:33:02,197 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:33:02,200 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:33:02,379 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:33:02,387 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:33:02,564 - INFO - ✓ Clicked next page
+2025-12-10 21:33:07,569 - INFO - 📄 Scraping page 4/5
+2025-12-10 21:33:10,608 - WARNING - No job links found on this page
+2025-12-10 21:33:10,608 - INFO - Trying to find any links on page...
+2025-12-10 21:33:10,615 - INFO - Total links on page: 65
+2025-12-10 21:33:10,619 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10165952?query=Computer+Science&per_page=25&sort=relevance&page=4#skip-to-content
+2025-12-10 21:33:10,622 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:33:10,624 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:33:10,628 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:33:10,630 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:33:10,633 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:33:10,636 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:33:10,639 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:33:10,642 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:33:10,645 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:33:10,920 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:33:10,929 - INFO - Found next button with: button[aria-label*='Next' i]
+2025-12-10 21:33:11,112 - INFO - ✓ Clicked next page
+2025-12-10 21:33:16,117 - INFO - 📄 Scraping page 5/5
+2025-12-10 21:33:19,163 - WARNING - No job links found on this page
+2025-12-10 21:33:19,163 - INFO - Trying to find any links on page...
+2025-12-10 21:33:19,171 - INFO - Total links on page: 65
+2025-12-10 21:33:19,175 - INFO - Sample link 0: https://app.joinhandshake.com/job-search/10351468?query=Computer+Science&per_page=25&sort=relevance&page=5#skip-to-content
+2025-12-10 21:33:19,178 - INFO - Sample link 1: https://app.joinhandshake.com/job-search
+2025-12-10 21:33:19,181 - INFO - Sample link 2: https://app.joinhandshake.com/saved-jobs
+2025-12-10 21:33:19,184 - INFO - Sample link 3: https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 21:33:19,187 - INFO - Sample link 4: https://app.joinhandshake.com/profiles/bish
+2025-12-10 21:33:19,190 - INFO - Sample link 5: https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 21:33:19,193 - INFO - Sample link 6: https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 21:33:19,196 - INFO - Sample link 7: https://app.joinhandshake.com/docs
+2025-12-10 21:33:19,198 - INFO - Sample link 8: https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 21:33:19,201 - INFO - Sample link 9: https://app.joinhandshake.com/notification-preferences
+2025-12-10 21:33:19,371 - INFO - ✓ Found 0 unique job URLs so far
+2025-12-10 21:33:19,371 - INFO - ✅ Total jobs found: 0
+2025-12-10 21:33:19,376 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 21:33:19,389 - INFO - 🔒 Closing browser...
+2025-12-10 21:33:19,579 - INFO - Usage logged: close - Browser closed
+2025-12-10 21:40:19,531 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 21:40:19,532 - INFO - Setting up Chrome WebDriver...
+2025-12-10 21:40:19,533 - INFO - ====== WebDriver manager ======
+2025-12-10 21:40:20,360 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:40:20,547 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 21:40:20,701 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 21:40:23,459 - INFO - ✅ WebDriver setup successful
+2025-12-10 21:40:23,465 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 21:40:23,465 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 21:40:23,467 - INFO - Usage logged: login - Starting login process
+2025-12-10 21:40:23,467 - INFO - Step 1: Going to Handshake...
+2025-12-10 21:40:27,641 - INFO - Step 2: Looking for school selection...
+2025-12-10 21:40:47,721 - INFO - ✓ Found school search field
+2025-12-10 21:40:47,858 - INFO - ✓ Entered school name
+2025-12-10 21:40:59,901 - INFO - No school search needed, proceeding... (Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+0   chromedriver                        0x0000000100e9ad7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x0000000100e92c3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x000000010098eb1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001009949dc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 98452
+4   chromedriver                        0x0000000100996ac4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 106876
+5   chromedriver                        0x0000000100996b7c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 107060
+6   chromedriver                        0x00000001009d65bc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 367732
+7   chromedriver                        0x00000001009d6638 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 367856
+8   chromedriver                        0x00000001009ce820 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 335576
+9   chromedriver                        0x00000001009cb758 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 323088
+10  chromedriver                        0x0000000100a16978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+11  chromedriver                        0x00000001009ca17c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+12  chromedriver                        0x0000000100e5f2cc cxxbridge1$str$ptr + 2783612
+13  chromedriver                        0x0000000100e62a30 cxxbridge1$str$ptr + 2797792
+14  chromedriver                        0x0000000100e3f560 cxxbridge1$str$ptr + 2653200
+15  chromedriver                        0x0000000100e632a0 cxxbridge1$str$ptr + 2799952
+16  chromedriver                        0x0000000100e2ff30 cxxbridge1$str$ptr + 2590176
+17  chromedriver                        0x0000000100e821b8 cxxbridge1$str$ptr + 2926696
+18  chromedriver                        0x0000000100e82338 cxxbridge1$str$ptr + 2927080
+19  chromedriver                        0x0000000100e92894 cxxbridge1$str$ptr + 2993988
+20  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+)
+2025-12-10 21:40:59,904 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 21:41:01,919 - INFO - Looking for email input...
+2025-12-10 21:41:01,984 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 21:41:04,606 - INFO - ✓ Submitted email
+2025-12-10 21:41:08,437 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 21:41:11,443 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 21:41:34,556 - INFO - ✓ Username entered
+2025-12-10 21:41:34,604 - INFO - ✓ Password entered
+2025-12-10 21:41:34,617 - INFO - ✓ Form submitted
+2025-12-10 21:41:44,637 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 21:41:44,646 - INFO - Usage logged: login - Login successful
+2025-12-10 21:41:44,646 - INFO - Navigating to postings page...
+2025-12-10 21:41:51,919 - INFO - 🔍 Searching for: Computer Science
+2025-12-10 21:41:51,922 - INFO - Usage logged: search - Searching: Computer Science, Pages: 5
+2025-12-10 21:41:51,925 - INFO - Current URL: https://app.joinhandshake.com/job-search/10538533?page=1&per_page=25
+2025-12-10 21:41:51,925 - INFO - Navigating to postings page...
+2025-12-10 21:42:00,871 - INFO - Page title: Jobs | Handshake
+2025-12-10 21:42:00,872 - INFO - 📜 Scrolling to trigger content loading...
+2025-12-10 21:42:06,183 - INFO - ✓ Entered search: Computer Science
+2025-12-10 21:42:08,430 - INFO - ✓ Pressed Enter
+2025-12-10 21:42:21,484 - INFO - 
+============================================================
+2025-12-10 21:42:21,485 - INFO - 📄 SCRAPING PAGE 1/5
+2025-12-10 21:42:21,485 - INFO - ============================================================
+2025-12-10 21:42:29,532 - INFO - Strategy 1: Trying specific selectors...
+2025-12-10 21:43:49,767 - INFO - Strategy 2: Scanning all links...
+2025-12-10 21:43:49,783 - INFO -   Total links on page: 69
+2025-12-10 21:43:49,967 - INFO -   ✓ Found 0 potential job links
+2025-12-10 21:43:49,967 - INFO - Strategy 3: JavaScript extraction...
+2025-12-10 21:43:49,971 - INFO - ✓ Total unique job URLs: 0
+2025-12-10 21:43:49,971 - WARNING - ⚠️ No jobs found on first page. Saving debug info...
+2025-12-10 21:43:50,934 - INFO -   ✓ Saved: debug_page_source.html
+2025-12-10 21:43:50,934 - INFO -   ✓ Saved: debug_screenshot.png
+2025-12-10 21:43:51,111 - INFO -   Page text preview: Skip to content
+Jobs
+Search
+Saved
+Explore
+Feed
+Inbox
+Jobs
+Events
+People
+Employers
+Career center
+23 profile views
+in the past 90 days
+Get the app
+Search for "Computer Science"
+Recent searches
+Computer Science
+Computer Science Remote
+Computer Science ohio
+Wright State collections
+Location
+Full-time jo
+2025-12-10 21:43:51,135 - INFO -   ✓ Found next button: button[aria-label*='Next' i]
+2025-12-10 21:43:51,381 - INFO -   ✓ Clicked next page
+2025-12-10 21:43:59,386 - INFO - 
+============================================================
+2025-12-10 21:43:59,388 - INFO - 📄 SCRAPING PAGE 2/5
+2025-12-10 21:43:59,388 - INFO - ============================================================
+2025-12-10 21:44:07,439 - INFO - Strategy 1: Trying specific selectors...
+2025-12-10 21:45:27,689 - INFO - Strategy 2: Scanning all links...
+2025-12-10 21:45:27,704 - INFO -   Total links on page: 69
+2025-12-10 21:45:27,887 - INFO -   ✓ Found 0 potential job links
+2025-12-10 21:45:27,887 - INFO - Strategy 3: JavaScript extraction...
+2025-12-10 21:45:27,890 - INFO - ✓ Total unique job URLs: 0
+2025-12-10 21:45:27,909 - INFO -   ✓ Found next button: button[aria-label*='Next' i]
+2025-12-10 21:45:28,160 - INFO -   ✓ Clicked next page
+2025-12-10 21:45:36,165 - INFO - 
+============================================================
+2025-12-10 21:45:36,166 - INFO - 📄 SCRAPING PAGE 3/5
+2025-12-10 21:45:36,166 - INFO - ============================================================
+2025-12-10 21:45:44,220 - INFO - Strategy 1: Trying specific selectors...
+2025-12-10 21:47:04,540 - INFO - Strategy 2: Scanning all links...
+2025-12-10 21:47:04,555 - INFO -   Total links on page: 68
+2025-12-10 21:47:04,735 - INFO -   ✓ Found 0 potential job links
+2025-12-10 21:47:04,735 - INFO - Strategy 3: JavaScript extraction...
+2025-12-10 21:47:04,739 - INFO - ✓ Total unique job URLs: 0
+2025-12-10 21:47:04,757 - INFO -   ✓ Found next button: button[aria-label*='Next' i]
+2025-12-10 21:47:04,923 - INFO -   ✓ Clicked next page
+2025-12-10 21:47:12,929 - INFO - 
+============================================================
+2025-12-10 21:47:12,929 - INFO - 📄 SCRAPING PAGE 4/5
+2025-12-10 21:47:12,929 - INFO - ============================================================
+2025-12-10 21:47:20,985 - INFO - Strategy 1: Trying specific selectors...
+2025-12-10 21:48:41,246 - INFO - Strategy 2: Scanning all links...
+2025-12-10 21:48:41,261 - INFO -   Total links on page: 65
+2025-12-10 21:48:41,434 - INFO -   ✓ Found 0 potential job links
+2025-12-10 21:48:41,434 - INFO - Strategy 3: JavaScript extraction...
+2025-12-10 21:48:41,437 - INFO - ✓ Total unique job URLs: 0
+2025-12-10 21:48:41,458 - INFO -   ✓ Found next button: button[aria-label*='Next' i]
+2025-12-10 21:48:41,651 - INFO -   ✓ Clicked next page
+2025-12-10 21:48:49,656 - INFO - 
+============================================================
+2025-12-10 21:48:49,657 - INFO - 📄 SCRAPING PAGE 5/5
+2025-12-10 21:48:49,657 - INFO - ============================================================
+2025-12-10 21:48:57,777 - INFO - Strategy 1: Trying specific selectors...
+2025-12-10 21:50:18,028 - INFO - Strategy 2: Scanning all links...
+2025-12-10 21:50:18,047 - INFO -   Total links on page: 65
+2025-12-10 21:50:18,223 - INFO -   ✓ Found 0 potential job links
+2025-12-10 21:50:18,224 - INFO - Strategy 3: JavaScript extraction...
+2025-12-10 21:50:18,227 - INFO - ✓ Total unique job URLs: 0
+2025-12-10 21:50:18,227 - INFO - 
+============================================================
+2025-12-10 21:50:18,227 - INFO - ✅ SEARCH COMPLETE: 0 total jobs found
+2025-12-10 21:50:18,227 - INFO - ============================================================
+
+2025-12-10 21:50:18,235 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 21:50:18,245 - INFO - 🔒 Closing browser...
+2025-12-10 21:50:18,470 - INFO - Usage logged: close - Browser closed
+2025-12-10 22:01:40,969 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 22:01:40,970 - INFO - Setting up Chrome WebDriver...
+2025-12-10 22:01:40,970 - INFO - ====== WebDriver manager ======
+2025-12-10 22:01:41,783 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:01:41,960 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:01:42,120 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 22:01:45,002 - INFO - ✅ WebDriver setup successful
+2025-12-10 22:01:45,006 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 22:01:45,007 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 22:01:45,008 - INFO - Usage logged: login - Starting login process
+2025-12-10 22:01:45,009 - INFO - Step 1: Going to Handshake...
+2025-12-10 22:01:49,646 - INFO - Step 2: Looking for school selection...
+2025-12-10 22:02:09,737 - INFO - ✓ Found school search field
+2025-12-10 22:02:09,874 - INFO - ✓ Entered school name
+2025-12-10 22:02:21,923 - INFO - No school search needed, proceeding... (Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+0   chromedriver                        0x0000000100e6ed7c cxxbridge1$str$ptr + 3028012
+1   chromedriver                        0x0000000100e66c3c cxxbridge1$str$ptr + 2994924
+2   chromedriver                        0x0000000100962b1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196
+3   chromedriver                        0x00000001009689dc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 98452
+4   chromedriver                        0x000000010096aac4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 106876
+5   chromedriver                        0x000000010096ab7c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 107060
+6   chromedriver                        0x00000001009aa5bc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 367732
+7   chromedriver                        0x00000001009aa638 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 367856
+8   chromedriver                        0x00000001009a2820 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 335576
+9   chromedriver                        0x000000010099f758 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 323088
+10  chromedriver                        0x00000001009ea978 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832
+11  chromedriver                        0x000000010099e17c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492
+12  chromedriver                        0x0000000100e332cc cxxbridge1$str$ptr + 2783612
+13  chromedriver                        0x0000000100e36a30 cxxbridge1$str$ptr + 2797792
+14  chromedriver                        0x0000000100e13560 cxxbridge1$str$ptr + 2653200
+15  chromedriver                        0x0000000100e372a0 cxxbridge1$str$ptr + 2799952
+16  chromedriver                        0x0000000100e03f30 cxxbridge1$str$ptr + 2590176
+17  chromedriver                        0x0000000100e561b8 cxxbridge1$str$ptr + 2926696
+18  chromedriver                        0x0000000100e56338 cxxbridge1$str$ptr + 2927080
+19  chromedriver                        0x0000000100e66894 cxxbridge1$str$ptr + 2993988
+20  libsystem_pthread.dylib             0x000000019402dc08 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000194028ba8 thread_start + 8
+)
+2025-12-10 22:02:21,928 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 22:02:23,945 - INFO - Looking for email input...
+2025-12-10 22:02:24,007 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 22:02:26,508 - INFO - ✓ Submitted email
+2025-12-10 22:02:30,440 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 22:02:33,445 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 22:02:56,589 - INFO - ✓ Username entered
+2025-12-10 22:02:56,700 - INFO - ✓ Password entered
+2025-12-10 22:02:56,714 - INFO - ✓ Form submitted
+2025-12-10 22:03:06,743 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 22:03:06,752 - INFO - Usage logged: login - Login successful
+2025-12-10 22:03:06,752 - INFO - Navigating to postings page...
+2025-12-10 22:03:13,796 - INFO - 🔍 Searching for INTERNSHIPS in: Computer Science | Location: 
+2025-12-10 22:03:13,798 - INFO - Usage logged: search - Searching: Computer Science, , Pages: 5
+2025-12-10 22:03:13,801 - INFO - Navigating to postings page...
+2025-12-10 22:03:22,850 - INFO - 📜 Scrolling to load content...
+2025-12-10 22:03:27,898 - INFO - 🎯 Step 1: Filtering for INTERNSHIPS only...
+2025-12-10 22:03:57,998 - INFO -   ℹ️ Trying JavaScript to find Job Type filter...
+2025-12-10 22:03:58,004 - WARNING -   ⚠️ Could not find Job Type filter - will rely on search keywords
+2025-12-10 22:03:58,004 - INFO - 🎯 Step 2: Filtering for major: Computer Science
+2025-12-10 22:04:28,131 - INFO - 🔍 Step 3: Searching with keywords: 'Computer Science internship'
+2025-12-10 22:04:28,456 - INFO -   ✓ Entered search: Computer Science internship
+2025-12-10 22:04:30,744 - INFO -   ✓ Pressed Enter
+2025-12-10 22:04:43,788 - INFO - 
+============================================================
+2025-12-10 22:04:43,788 - INFO - 📋 SCRAPING JOB LISTINGS...
+2025-12-10 22:04:43,788 - INFO - ============================================================
+2025-12-10 22:04:43,788 - INFO - 
+🔄 PAGE 1/5
+2025-12-10 22:05:31,971 - INFO -   ℹ️ Using fallback: scanning all links...
+2025-12-10 22:05:32,177 - INFO -   ✓ Found 0 potential job links
+2025-12-10 22:05:32,177 - INFO -   ✓ Total jobs: 0
+2025-12-10 22:05:32,447 - INFO -   ✓ Saved debug files
+2025-12-10 22:05:42,463 - INFO - 
+✅ SEARCH COMPLETE: 0 internships found
+2025-12-10 22:05:42,468 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 22:05:42,476 - INFO - 🔒 Closing browser...
+2025-12-10 22:05:42,741 - INFO - Usage logged: close - Browser closed
+2025-12-10 22:12:09,421 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 22:12:09,422 - INFO - Setting up Chrome WebDriver...
+2025-12-10 22:12:09,422 - INFO - ====== WebDriver manager ======
+2025-12-10 22:12:10,101 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:12:10,387 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:12:10,555 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 22:12:12,951 - INFO - ✅ WebDriver setup successful
+2025-12-10 22:12:12,955 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 22:12:12,955 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 22:12:12,959 - INFO - Usage logged: login - Starting login process
+2025-12-10 22:12:12,959 - INFO - Step 1: Going to Handshake...
+2025-12-10 22:12:17,139 - INFO - Step 2: Looking for school selection...
+2025-12-10 22:12:37,258 - INFO - ✓ Found school search field
+2025-12-10 22:12:37,395 - INFO - ✓ Entered school name
+2025-12-10 22:12:49,488 - INFO - ✓ Pressed Enter on school search
+2025-12-10 22:12:52,493 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 22:12:54,502 - INFO - Looking for email input...
+2025-12-10 22:12:54,557 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 22:12:58,476 - INFO - ✓ Submitted email
+2025-12-10 22:13:02,429 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 22:13:05,434 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 22:13:28,548 - INFO - ✓ Username entered
+2025-12-10 22:13:28,659 - INFO - ✓ Password entered
+2025-12-10 22:13:28,673 - INFO - ✓ Form submitted
+2025-12-10 22:13:38,689 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 22:13:38,697 - INFO - Usage logged: login - Login successful
+2025-12-10 22:13:38,697 - INFO - Navigating to postings page...
+2025-12-10 22:13:45,172 - INFO - 🔍 Searching for internships related to: Computer Science
+2025-12-10 22:13:45,173 - INFO - 📝 Expanded search: software engineer OR software developer OR software development OR programmer OR coding OR web developer OR full stack OR frontend OR backend OR mobile developer OR app developer OR data analyst OR data science OR machine learning OR AI OR IT OR technology OR tech
+2025-12-10 22:13:45,174 - INFO - Usage logged: search - Searching: Computer Science, Location: , Pages: 5
+2025-12-10 22:13:45,178 - INFO - Navigating to postings page...
+2025-12-10 22:13:54,510 - INFO - 📜 Scrolling to load content...
+2025-12-10 22:13:59,558 - INFO - 🎯 Step 1: Filtering for INTERNSHIPS only...
+2025-12-10 22:14:09,620 - INFO -   ℹ️ Trying JavaScript to find Job Type filter...
+2025-12-10 22:14:09,630 - WARNING -   ⚠️ Could not find Job Type filter
+2025-12-10 22:14:09,630 - INFO - 🔍 Step 2: Searching with broad keywords...
+2025-12-10 22:14:09,630 - INFO -   📝 Search term: 'Computer Science'
+2025-12-10 22:14:09,991 - INFO -   ✓ Entered search: Computer Science
+2025-12-10 22:14:12,254 - INFO -   ✓ Pressed Enter
+2025-12-10 22:14:25,303 - INFO - 
+============================================================
+2025-12-10 22:14:25,306 - INFO - 📋 SCRAPING JOB LISTINGS...
+2025-12-10 22:14:25,306 - INFO - ============================================================
+2025-12-10 22:14:25,306 - INFO - 
+🔄 PAGE 1/5
+2025-12-10 22:15:34,596 - INFO -   ℹ️ Using JavaScript to extract links...
+2025-12-10 22:15:34,603 - INFO -   ✓ Added 0 new jobs | Total: 0
+2025-12-10 22:15:34,604 - WARNING - ⚠️ No jobs found on first page. Saving debug info...
+2025-12-10 22:15:34,896 - INFO -   ✓ Saved: debug_page_source.html & debug_screenshot.png
+2025-12-10 22:15:35,172 - INFO -   ✓ Clicked next page
+2025-12-10 22:15:40,177 - INFO - 
+🔄 PAGE 2/5
+2025-12-10 22:16:49,465 - INFO -   ℹ️ Using JavaScript to extract links...
+2025-12-10 22:16:49,473 - INFO -   ✓ Added 0 new jobs | Total: 0
+2025-12-10 22:16:49,774 - INFO -   ✓ Clicked next page
+2025-12-10 22:16:54,779 - INFO - 
+🔄 PAGE 3/5
+2025-12-10 22:18:04,110 - INFO -   ℹ️ Using JavaScript to extract links...
+2025-12-10 22:18:04,119 - INFO -   ✓ Added 0 new jobs | Total: 0
+2025-12-10 22:18:04,312 - INFO -   ✓ Clicked next page
+2025-12-10 22:18:09,317 - INFO - 
+🔄 PAGE 4/5
+2025-12-10 22:19:18,703 - INFO -   ℹ️ Using JavaScript to extract links...
+2025-12-10 22:19:18,709 - INFO -   ✓ Added 0 new jobs | Total: 0
+2025-12-10 22:19:18,928 - INFO -   ✓ Clicked next page
+2025-12-10 22:19:23,933 - INFO - 
+🔄 PAGE 5/5
+2025-12-10 22:20:33,201 - INFO -   ℹ️ Using JavaScript to extract links...
+2025-12-10 22:20:33,208 - INFO -   ✓ Added 0 new jobs | Total: 0
+2025-12-10 22:20:33,208 - INFO - 
+============================================================
+2025-12-10 22:20:33,208 - INFO - ✅ SEARCH COMPLETE: 0 internships found
+2025-12-10 22:20:33,208 - INFO - ============================================================
+
+2025-12-10 22:20:33,216 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 22:20:33,230 - INFO - 🔒 Closing browser...
+2025-12-10 22:20:33,469 - INFO - Usage logged: close - Browser closed
+2025-12-10 22:25:10,687 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 22:25:10,688 - INFO - Setting up Chrome WebDriver...
+2025-12-10 22:25:10,688 - INFO - ====== WebDriver manager ======
+2025-12-10 22:25:11,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:25:11,871 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:25:12,177 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 22:25:15,396 - INFO - ✅ WebDriver setup successful
+2025-12-10 22:25:15,400 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 22:25:15,400 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 22:25:15,401 - INFO - Usage logged: login - Starting login process
+2025-12-10 22:25:15,401 - INFO - Step 1: Going to Handshake...
+2025-12-10 22:25:19,675 - INFO - Step 2: Looking for school selection...
+2025-12-10 22:25:39,786 - INFO - ✓ Found school search field
+2025-12-10 22:25:39,937 - INFO - ✓ Entered school name
+2025-12-10 22:25:52,030 - INFO - ✓ Pressed Enter on school search
+2025-12-10 22:25:55,036 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 22:25:57,048 - INFO - Looking for email input...
+2025-12-10 22:25:57,107 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 22:26:00,525 - INFO - ✓ Submitted email
+2025-12-10 22:26:04,325 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 22:26:07,330 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 22:26:30,478 - INFO - ✓ Username entered
+2025-12-10 22:26:30,593 - INFO - ✓ Password entered
+2025-12-10 22:26:30,607 - INFO - ✓ Form submitted
+2025-12-10 22:26:40,622 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 22:26:40,630 - INFO - Usage logged: login - Login successful
+2025-12-10 22:26:40,630 - INFO - Navigating to postings page...
+2025-12-10 22:26:47,618 - INFO - 🔍 Searching for: Computer Science | Location: 
+2025-12-10 22:26:47,620 - INFO - Usage logged: search - Searching: Computer Science, Location: , Pages: 5
+2025-12-10 22:26:47,622 - INFO - Navigating to postings page...
+2025-12-10 22:26:58,672 - INFO - ⏳ Waiting for page to fully load...
+2025-12-10 22:27:19,239 - WARNING - ⚠️ Timeout waiting for articles, trying alternative...
+2025-12-10 22:27:29,301 - WARNING - ⚠️ Could not detect job listings
+2025-12-10 22:27:29,301 - INFO - 📜 Scrolling to load all jobs...
+2025-12-10 22:27:31,313 - INFO -   Scroll 1/5
+2025-12-10 22:27:33,326 - INFO -   Scroll 2/5
+2025-12-10 22:27:35,334 - INFO -   Scroll 3/5
+2025-12-10 22:27:37,343 - INFO -   Scroll 4/5
+2025-12-10 22:27:39,355 - INFO -   Scroll 5/5
+2025-12-10 22:27:41,367 - INFO - 🔍 Entering search: Computer Science
+2025-12-10 22:27:41,634 - INFO - ✓ Typed: Computer Science
+2025-12-10 22:27:43,922 - INFO - ✓ Pressed Enter
+2025-12-10 22:27:53,928 - INFO - 📜 Scrolling search results...
+2025-12-10 22:28:05,994 - INFO - 
+============================================================
+2025-12-10 22:28:05,995 - INFO - 📋 EXTRACTING JOB LINKS...
+2025-12-10 22:28:05,995 - INFO - ============================================================
+2025-12-10 22:28:05,995 - INFO - 
+🔄 PAGE 1/5
+2025-12-10 22:28:09,051 - INFO - Method 1: Extracting ALL links from page...
+2025-12-10 22:28:09,064 - INFO -   Found 69 total links on page
+2025-12-10 22:28:09,246 - INFO -   Added 0 jobs from this page
+2025-12-10 22:28:09,246 - INFO -   Total jobs so far: 0
+2025-12-10 22:28:09,246 - INFO - Method 2: Using JavaScript extraction...
+2025-12-10 22:28:09,250 - WARNING -   ⚠️ JavaScript found no URLs either
+2025-12-10 22:28:09,250 - WARNING - ⚠️ NO JOBS FOUND - Saving debug info...
+2025-12-10 22:28:09,284 - INFO -   ✓ Saved: debug_page_source.html
+2025-12-10 22:28:09,572 - INFO -   ✓ Saved: debug_screenshot.png
+2025-12-10 22:28:09,572 - INFO - 
+  🔍 ALL LINKS ON PAGE:
+2025-12-10 22:28:09,585 - INFO -     1. https://app.joinhandshake.com/job-search/10538533?query=Computer+Science&per_page=25&sort=relevance&page=1#skip-to-content
+2025-12-10 22:28:09,586 - INFO -     2. https://app.joinhandshake.com/job-search
+2025-12-10 22:28:09,586 - INFO -     3. https://app.joinhandshake.com/saved-jobs
+2025-12-10 22:28:09,586 - INFO -     4. https://app.joinhandshake.com/notifications?ref=navbar
+2025-12-10 22:28:09,586 - INFO -     5. https://app.joinhandshake.com/profiles/bish
+2025-12-10 22:28:09,586 - INFO -     6. https://app.joinhandshake.com/apps?ref=account-dropdown
+2025-12-10 22:28:09,586 - INFO -     7. https://app.joinhandshake.com/stu/users/61107255/interviews
+2025-12-10 22:28:09,586 - INFO -     8. https://app.joinhandshake.com/docs
+2025-12-10 22:28:09,586 - INFO -     9. https://app.joinhandshake.com/stu/users/61107255/career_interests
+2025-12-10 22:28:09,586 - INFO -     10. https://app.joinhandshake.com/notification-preferences
+2025-12-10 22:28:09,586 - INFO -     11. https://app.joinhandshake.com/affiliations
+2025-12-10 22:28:09,586 - INFO -     12. https://app.joinhandshake.com/settings
+2025-12-10 22:28:09,586 - INFO -     13. https://app.joinhandshake.com/job-search/10538533?query=Computer+Science&per_page=25&sort=relevance&page=1#
+2025-12-10 22:28:09,586 - INFO -     14. https://support.joinhandshake.com/hc/en-us/categories/202711128-Student-Alumni
+2025-12-10 22:28:09,586 - INFO -     15. https://joinhandshake.com/tos/
+2025-12-10 22:28:09,586 - INFO -     16. https://app.joinhandshake.com/logout
+2025-12-10 22:28:09,586 - INFO -     17. https://app.joinhandshake.com/explore
+2025-12-10 22:28:09,586 - INFO -     18. https://app.joinhandshake.com/explore
+2025-12-10 22:28:09,586 - INFO -     19. https://app.joinhandshake.com/feed
+2025-12-10 22:28:09,586 - INFO -     20. https://app.joinhandshake.com/inbox?ref=sidebar
+2025-12-10 22:28:09,586 - INFO -     21. https://app.joinhandshake.com/job-search
+2025-12-10 22:28:09,586 - INFO -     22. https://app.joinhandshake.com/stu/events
+2025-12-10 22:28:09,586 - INFO -     23. https://app.joinhandshake.com/people
+2025-12-10 22:28:09,586 - INFO -     24. https://app.joinhandshake.com/employer-search
+2025-12-10 22:28:09,586 - INFO -     25. https://app.joinhandshake.com/stu/schools/389
+2025-12-10 22:28:09,586 - INFO -     26. https://app.joinhandshake.com/job-search/10442692?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     27. https://app.joinhandshake.com/job-search/10491969?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     28. https://app.joinhandshake.com/job-search/10442684?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     29. https://app.joinhandshake.com/job-search/10452899?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     30. https://app.joinhandshake.com/job-search/9656486?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     31. https://app.joinhandshake.com/job-search/10446376?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     32. https://app.joinhandshake.com/job-search/10446371?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     33. https://app.joinhandshake.com/job-search/10559081?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     34. https://app.joinhandshake.com/job-search/10538533?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     35. https://app.joinhandshake.com/job-search/10516479?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     36. https://app.joinhandshake.com/job-search/9656412?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     37. https://app.joinhandshake.com/job-search/10497718?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,586 - INFO -     38. https://app.joinhandshake.com/job-search/10560562?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     39. https://app.joinhandshake.com/job-search/10558335?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     40. https://app.joinhandshake.com/job-search/10533090?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     41. https://app.joinhandshake.com/job-search/10504303?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     42. https://app.joinhandshake.com/job-search/10454361?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     43. https://app.joinhandshake.com/job-search/10560526?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     44. https://app.joinhandshake.com/job-search/10516584?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     45. https://app.joinhandshake.com/job-search/10558991?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     46. https://app.joinhandshake.com/job-search/10509214?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     47. https://app.joinhandshake.com/job-search/10531225?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     48. https://app.joinhandshake.com/job-search/10454344?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     49. https://app.joinhandshake.com/job-search/10383484?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,587 - INFO -     50. https://app.joinhandshake.com/job-search/10198774?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,860 - INFO - 
+  📄 PAGE TEXT (first 500 chars):
+2025-12-10 22:28:09,861 - INFO -     Skip to content
+Jobs
+Search
+Saved
+Explore
+Feed
+Inbox
+Jobs
+Events
+People
+Employers
+Career center
+23 profile views
+in the past 90 days
+Get the app
+Wright State collections
+Location
+Full-time job
+Internship
+Part time
+Filters
+1811 jobs found
+Most relevant
+relevance
+application_deadline_asc
+application_deadline_desc
+posted_date_desc
+posted_date_asc
+Get alerts for jobs like this
+Update preferences
+Wright State University On-Campus Student Employment
+Department of Computer Science and Engineering, Lab 
+2025-12-10 22:28:09,868 - INFO - 
+  🌐 Current URL: https://app.joinhandshake.com/job-search/10538533?query=Computer+Science&per_page=25&sort=relevance&page=1
+2025-12-10 22:28:09,868 - INFO - 
+  Attempting to navigate to next page...
+2025-12-10 22:28:10,693 - INFO -   ✓ Clicked Next button
+2025-12-10 22:28:26,738 - INFO - 
+🔄 PAGE 2/5
+2025-12-10 22:28:29,791 - INFO - Method 1: Extracting ALL links from page...
+2025-12-10 22:28:29,801 - INFO -   Found 69 total links on page
+2025-12-10 22:28:29,988 - INFO -   Added 0 jobs from this page
+2025-12-10 22:28:29,988 - INFO -   Total jobs so far: 0
+2025-12-10 22:28:29,988 - INFO - Method 2: Using JavaScript extraction...
+2025-12-10 22:28:29,990 - WARNING -   ⚠️ JavaScript found no URLs either
+2025-12-10 22:28:29,990 - INFO - 
+  Attempting to navigate to next page...
+2025-12-10 22:28:30,700 - INFO -   ✓ Clicked Next button
+2025-12-10 22:28:46,798 - INFO - 
+🔄 PAGE 3/5
+2025-12-10 22:28:49,859 - INFO - Method 1: Extracting ALL links from page...
+2025-12-10 22:28:49,871 - INFO -   Found 68 total links on page
+2025-12-10 22:28:50,058 - INFO -   Added 0 jobs from this page
+2025-12-10 22:28:50,058 - INFO -   Total jobs so far: 0
+2025-12-10 22:28:50,058 - INFO - Method 2: Using JavaScript extraction...
+2025-12-10 22:28:50,061 - WARNING -   ⚠️ JavaScript found no URLs either
+2025-12-10 22:28:50,061 - INFO - 
+  Attempting to navigate to next page...
+2025-12-10 22:28:50,835 - INFO -   ✓ Clicked Next button
+2025-12-10 22:29:06,887 - INFO - 
+🔄 PAGE 4/5
+2025-12-10 22:29:09,935 - INFO - Method 1: Extracting ALL links from page...
+2025-12-10 22:29:09,944 - INFO -   Found 65 total links on page
+2025-12-10 22:29:10,117 - INFO -   Added 0 jobs from this page
+2025-12-10 22:29:10,117 - INFO -   Total jobs so far: 0
+2025-12-10 22:29:10,117 - INFO - Method 2: Using JavaScript extraction...
+2025-12-10 22:29:10,120 - WARNING -   ⚠️ JavaScript found no URLs either
+2025-12-10 22:29:10,120 - INFO - 
+  Attempting to navigate to next page...
+2025-12-10 22:29:10,774 - INFO -   ✓ Clicked Next button
+2025-12-10 22:29:26,817 - INFO - 
+🔄 PAGE 5/5
+2025-12-10 22:29:29,872 - INFO - Method 1: Extracting ALL links from page...
+2025-12-10 22:29:29,882 - INFO -   Found 65 total links on page
+2025-12-10 22:29:30,073 - INFO -   Added 0 jobs from this page
+2025-12-10 22:29:30,073 - INFO -   Total jobs so far: 0
+2025-12-10 22:29:30,073 - INFO - Method 2: Using JavaScript extraction...
+2025-12-10 22:29:30,076 - WARNING -   ⚠️ JavaScript found no URLs either
+2025-12-10 22:29:30,076 - INFO - 
+============================================================
+2025-12-10 22:29:30,076 - INFO - ✅ SEARCH COMPLETE: 0 jobs found
+2025-12-10 22:29:30,076 - INFO - ============================================================
+
+2025-12-10 22:29:30,076 - WARNING - 
+⚠️ NO JOBS FOUND!
+2025-12-10 22:29:30,076 - WARNING - Please check:
+2025-12-10 22:29:30,076 - WARNING -   1. debug_page_source.html - Does it show job listings?
+2025-12-10 22:29:30,076 - WARNING -   2. debug_screenshot.png - What does the page look like?
+2025-12-10 22:29:30,076 - WARNING -   3. Are you seeing jobs when you manually browse Handshake?
+2025-12-10 22:29:30,076 - WARNING -   4. Try a different search term or leave it blank
+2025-12-10 22:29:30,082 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 22:29:30,098 - INFO - 🔒 Closing browser...
+2025-12-10 22:29:30,347 - INFO - Usage logged: close - Browser closed
+2025-12-10 22:34:49,418 - INFO - Usage logged: init - Tracker initialized
+2025-12-10 22:34:49,419 - INFO - Setting up Chrome WebDriver...
+2025-12-10 22:34:49,419 - INFO - ====== WebDriver manager ======
+2025-12-10 22:34:50,317 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:34:50,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-10 22:34:50,783 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-10 22:34:53,602 - INFO - ✅ WebDriver setup successful
+2025-12-10 22:34:53,606 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-10 22:34:53,606 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-10 22:34:53,609 - INFO - Usage logged: login - Starting login process
+2025-12-10 22:34:53,610 - INFO - Step 1: Going to Handshake...
+2025-12-10 22:34:57,736 - INFO - Step 2: Looking for school selection...
+2025-12-10 22:35:17,829 - INFO - ✓ Found school search field
+2025-12-10 22:35:17,969 - INFO - ✓ Entered school name
+2025-12-10 22:35:30,079 - INFO - ✓ Pressed Enter on school search
+2025-12-10 22:35:33,085 - INFO - Step 3: Checking for email input or SSO...
+2025-12-10 22:35:35,096 - INFO - Looking for email input...
+2025-12-10 22:35:35,148 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-10 22:35:37,714 - INFO - ✓ Submitted email
+2025-12-10 22:35:41,507 - INFO - ✓ Clicked Wright State SSO button
+2025-12-10 22:35:44,513 - INFO - Step 4: Entering Wright State credentials...
+2025-12-10 22:36:07,601 - INFO - ✓ Username entered
+2025-12-10 22:36:07,650 - INFO - ✓ Password entered
+2025-12-10 22:36:07,662 - INFO - ✓ Form submitted
+2025-12-10 22:36:17,678 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-10 22:36:17,690 - INFO - Usage logged: login - Login successful
+2025-12-10 22:36:17,690 - INFO - Navigating to postings page...
+2025-12-10 22:36:27,762 - INFO - 
+======================================================================
+2025-12-10 22:36:27,762 - INFO - 🎯 FOOLPROOF SCRAPING STRATEGY
+2025-12-10 22:36:27,762 - INFO - ======================================================================
+2025-12-10 22:36:27,762 - INFO - 1. Load page completely
+2025-12-10 22:36:27,762 - INFO - 2. Scroll extensively to trigger all content
+2025-12-10 22:36:27,762 - INFO - 3. Extract ALL job links (no search filters)
+2025-12-10 22:36:27,762 - INFO - 4. Filter results by keywords afterward
+2025-12-10 22:36:27,762 - INFO - ======================================================================
+
+2025-12-10 22:36:27,764 - INFO - Usage logged: search - Keywords: Computer Science, Location: Remote, Pages: 3
+2025-12-10 22:36:27,767 - INFO - 📍 Navigating to postings page...
+2025-12-10 22:36:38,761 - INFO - ⏳ Waiting for page content to load...
+2025-12-10 22:36:38,783 - INFO - ✓ Content detected!
+2025-12-10 22:36:38,783 - INFO - 📜 Scrolling to load ALL content (this takes time)...
+2025-12-10 22:36:41,804 - INFO -   Scroll 1/10 - Height: 611
+2025-12-10 22:36:41,804 - INFO -   ✓ Reached bottom (no more content loading)
+2025-12-10 22:36:43,815 - INFO - ✓ Scrolling complete! Page fully loaded.
+2025-12-10 22:36:43,815 - INFO - 
+============================================================
+2025-12-10 22:36:43,816 - INFO - 🔍 EXTRACTING ALL JOB LINKS FROM PAGE...
+2025-12-10 22:36:43,816 - INFO - ============================================================
+2025-12-10 22:36:43,816 - INFO - 
+📄 Processing Page 1/3...
+2025-12-10 22:36:43,816 - INFO - Strategy 1: Regex pattern matching...
+2025-12-10 22:36:44,026 - INFO -   ✓ Found 0 job URLs via regex
+2025-12-10 22:36:44,026 - INFO - Strategy 2: JavaScript extraction...
+2025-12-10 22:36:44,030 - INFO -   ✓ JavaScript found 0 jobs with titles
+2025-12-10 22:36:44,030 - INFO - Strategy 3: BeautifulSoup parsing...
+2025-12-10 22:36:44,124 - INFO -   ✓ BeautifulSoup found 0 additional jobs
+2025-12-10 22:36:44,124 - INFO -   📊 Total jobs collected: 0
+2025-12-10 22:36:44,124 - INFO - 
+  ➡️  Attempting next page...
+2025-12-10 22:36:44,364 - INFO -   ✓ Clicked next page button
+2025-12-10 22:37:04,431 - INFO - 
+📄 Processing Page 2/3...
+2025-12-10 22:37:04,433 - INFO - Strategy 1: Regex pattern matching...
+2025-12-10 22:37:04,639 - INFO -   ✓ Found 0 job URLs via regex
+2025-12-10 22:37:04,639 - INFO - Strategy 2: JavaScript extraction...
+2025-12-10 22:37:04,642 - INFO -   ✓ JavaScript found 0 jobs with titles
+2025-12-10 22:37:04,642 - INFO - Strategy 3: BeautifulSoup parsing...
+2025-12-10 22:37:04,728 - INFO -   ✓ BeautifulSoup found 0 additional jobs
+2025-12-10 22:37:04,728 - INFO -   📊 Total jobs collected: 0
+2025-12-10 22:37:04,728 - INFO - 
+  ➡️  Attempting next page...
+2025-12-10 22:37:04,940 - INFO -   ✓ Clicked next page button
+2025-12-10 22:37:25,016 - INFO - 
+📄 Processing Page 3/3...
+2025-12-10 22:37:25,018 - INFO - Strategy 1: Regex pattern matching...
+2025-12-10 22:37:25,222 - INFO -   ✓ Found 0 job URLs via regex
+2025-12-10 22:37:25,222 - INFO - Strategy 2: JavaScript extraction...
+2025-12-10 22:37:25,225 - INFO -   ✓ JavaScript found 0 jobs with titles
+2025-12-10 22:37:25,225 - INFO - Strategy 3: BeautifulSoup parsing...
+2025-12-10 22:37:25,316 - INFO -   ✓ BeautifulSoup found 0 additional jobs
+2025-12-10 22:37:25,316 - INFO -   📊 Total jobs collected: 0
+2025-12-10 22:37:25,316 - INFO - 
+============================================================
+2025-12-10 22:37:25,316 - INFO - ✅ EXTRACTION COMPLETE!
+2025-12-10 22:37:25,316 - INFO -    Total unique jobs found: 0
+2025-12-10 22:37:25,316 - INFO - ============================================================
+
+2025-12-10 22:37:25,316 - INFO - 🔍 Filtering by keywords: 'Computer Science' / 'Remote'
+2025-12-10 22:37:25,316 - INFO -    After filtering: 0 jobs match
+2025-12-10 22:37:25,316 - WARNING - ⚠️  No jobs matched 'Computer Science' / 'Remote'
+2025-12-10 22:37:25,316 - INFO - 💡 Returning ALL 0 jobs instead
+2025-12-10 22:37:25,316 - INFO -    You can filter them manually or search with different keywords
+2025-12-10 22:37:25,317 - WARNING - ⚠️ NO JOBS FOUND AT ALL!
+2025-12-10 22:37:25,351 - INFO -   ✓ Saved: debug_page_source.html
+2025-12-10 22:37:25,552 - INFO -   ✓ Saved: debug_screenshot.png
+2025-12-10 22:37:25,557 - INFO -   ✓ Saved: debug_all_links.json
+2025-12-10 22:37:25,560 - INFO -   ✓ Current URL: https://app.joinhandshake.com/job-search/10552783?page=3&per_page=25
+2025-12-10 22:37:25,561 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-10 22:37:25,564 - INFO - 🔒 Closing browser...
+2025-12-10 22:37:25,795 - INFO - Usage logged: close - Browser closed
+2025-12-11 09:04:26,841 - INFO - Usage logged: init - Tracker initialized
+2025-12-11 09:04:26,842 - INFO - Setting up Chrome WebDriver...
+2025-12-11 09:04:26,842 - INFO - ====== WebDriver manager ======
+2025-12-11 09:04:34,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:04:34,348 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:04:34,500 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:04:34,868 - INFO - WebDriver version 143.0.7499.42 selected
+2025-12-11 09:04:34,872 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/mac-arm64/chromedriver-mac-arm64.zip
+2025-12-11 09:04:34,872 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/mac-arm64/chromedriver-mac-arm64.zip
+2025-12-11 09:04:35,093 - INFO - Driver downloading response is 200
+2025-12-11 09:04:35,915 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:04:36,172 - INFO - Driver has been saved in cache [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42]
+2025-12-11 09:04:38,361 - INFO - ✅ WebDriver setup successful
+2025-12-11 09:04:38,365 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-11 09:04:38,365 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-11 09:04:38,368 - INFO - Usage logged: login - Starting login process
+2025-12-11 09:04:38,369 - INFO - Step 1: Going to Handshake...
+2025-12-11 09:04:42,380 - INFO - Step 2: Looking for school selection...
+2025-12-11 09:05:02,473 - INFO - ✓ Found school search field
+2025-12-11 09:05:02,606 - INFO - ✓ Entered school name
+2025-12-11 09:05:14,656 - INFO - ✓ Pressed Enter on school search
+2025-12-11 09:05:17,662 - INFO - Step 3: Checking for email input or SSO...
+2025-12-11 09:05:19,676 - INFO - Looking for email input...
+2025-12-11 09:05:19,735 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-11 09:05:22,259 - INFO - ✓ Submitted email
+2025-12-11 09:05:25,982 - INFO - ✓ Clicked Wright State SSO button
+2025-12-11 09:05:28,987 - INFO - Step 4: Entering Wright State credentials...
+2025-12-11 09:05:52,113 - INFO - ✓ Username entered
+2025-12-11 09:05:52,159 - INFO - ✓ Password entered
+2025-12-11 09:05:52,172 - INFO - ✓ Form submitted
+2025-12-11 09:06:02,196 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-11 09:06:02,204 - INFO - Usage logged: login - Login successful
+2025-12-11 09:06:02,205 - INFO - Navigating to postings page...
+2025-12-11 09:06:11,995 - INFO - 
+======================================================================
+2025-12-11 09:06:11,996 - INFO - 🎯 FOOLPROOF SCRAPING STRATEGY
+2025-12-11 09:06:11,996 - INFO - ======================================================================
+2025-12-11 09:06:11,996 - INFO - 1. Load page completely
+2025-12-11 09:06:11,996 - INFO - 2. Scroll extensively to trigger all content
+2025-12-11 09:06:11,996 - INFO - 3. Extract ALL job links (no search filters)
+2025-12-11 09:06:11,996 - INFO - 4. Filter results by keywords afterward
+2025-12-11 09:06:11,996 - INFO - ======================================================================
+
+2025-12-11 09:06:11,998 - INFO - Usage logged: search - Keywords: Computer Science, Location: Remote, Pages: 2
+2025-12-11 09:06:12,001 - INFO - 📍 Navigating to postings page...
+2025-12-11 09:06:22,852 - INFO - ⏳ Waiting for page content to load...
+2025-12-11 09:06:22,876 - INFO - ✓ Content detected!
+2025-12-11 09:06:22,876 - INFO - 📜 Scrolling to load ALL content (this takes time)...
+2025-12-11 09:06:25,895 - INFO -   Scroll 1/10 - Height: 611
+2025-12-11 09:06:25,895 - INFO -   ✓ Reached bottom (no more content loading)
+2025-12-11 09:06:27,906 - INFO - ✓ Scrolling complete! Page fully loaded.
+2025-12-11 09:06:27,906 - INFO - 
+============================================================
+2025-12-11 09:06:27,907 - INFO - 🔍 EXTRACTING ALL JOB LINKS FROM PAGE...
+2025-12-11 09:06:27,907 - INFO - ============================================================
+2025-12-11 09:06:27,907 - INFO - 
+📄 Processing Page 1/2...
+2025-12-11 09:06:27,907 - INFO - Strategy 1: Regex pattern matching...
+2025-12-11 09:06:28,117 - INFO -   ✓ Found 0 job URLs via regex
+2025-12-11 09:06:28,117 - INFO - Strategy 2: JavaScript extraction...
+2025-12-11 09:06:28,121 - INFO -   ✓ JavaScript found 0 jobs with titles
+2025-12-11 09:06:28,121 - INFO - Strategy 3: BeautifulSoup parsing...
+2025-12-11 09:06:28,216 - INFO -   ✓ BeautifulSoup found 0 additional jobs
+2025-12-11 09:06:28,216 - INFO -   📊 Total jobs collected: 0
+2025-12-11 09:06:28,216 - INFO - 
+  ➡️  Attempting next page...
+2025-12-11 09:06:28,542 - INFO -   ✓ Clicked next page button
+2025-12-11 09:06:48,596 - INFO - 
+📄 Processing Page 2/2...
+2025-12-11 09:06:48,597 - INFO - Strategy 1: Regex pattern matching...
+2025-12-11 09:06:48,804 - INFO -   ✓ Found 0 job URLs via regex
+2025-12-11 09:06:48,804 - INFO - Strategy 2: JavaScript extraction...
+2025-12-11 09:06:48,807 - INFO -   ✓ JavaScript found 0 jobs with titles
+2025-12-11 09:06:48,807 - INFO - Strategy 3: BeautifulSoup parsing...
+2025-12-11 09:06:48,891 - INFO -   ✓ BeautifulSoup found 0 additional jobs
+2025-12-11 09:06:48,891 - INFO -   📊 Total jobs collected: 0
+2025-12-11 09:06:48,891 - INFO - 
+============================================================
+2025-12-11 09:06:48,891 - INFO - ✅ EXTRACTION COMPLETE!
+2025-12-11 09:06:48,892 - INFO -    Total unique jobs found: 0
+2025-12-11 09:06:48,892 - INFO - ============================================================
+
+2025-12-11 09:06:48,892 - INFO - 🔍 Filtering by keywords: 'Computer Science' / 'Remote'
+2025-12-11 09:06:48,892 - INFO -    After filtering: 0 jobs match
+2025-12-11 09:06:48,892 - WARNING - ⚠️  No jobs matched 'Computer Science' / 'Remote'
+2025-12-11 09:06:48,892 - INFO - 💡 Returning ALL 0 jobs instead
+2025-12-11 09:06:48,892 - INFO -    You can filter them manually or search with different keywords
+2025-12-11 09:06:48,892 - WARNING - ⚠️ NO JOBS FOUND AT ALL!
+2025-12-11 09:06:48,924 - INFO -   ✓ Saved: debug_page_source.html
+2025-12-11 09:06:49,148 - INFO -   ✓ Saved: debug_screenshot.png
+2025-12-11 09:06:49,153 - INFO -   ✓ Saved: debug_all_links.json
+2025-12-11 09:06:49,156 - INFO -   ✓ Current URL: https://app.joinhandshake.com/job-search/10520645?page=2&per_page=25
+2025-12-11 09:06:49,158 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-11 09:06:49,161 - INFO - 🔒 Closing browser...
+2025-12-11 09:06:49,416 - INFO - Usage logged: close - Browser closed
+2025-12-11 09:25:15,417 - INFO - Usage logged: init - Tracker initialized
+2025-12-11 09:25:15,421 - INFO - Setting up Chrome WebDriver...
+2025-12-11 09:25:15,421 - INFO - ====== WebDriver manager ======
+2025-12-11 09:25:16,318 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:25:16,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:25:16,603 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-11 09:25:19,444 - INFO - ✅ WebDriver setup successful
+2025-12-11 09:25:19,448 - INFO - Usage logged: setup - WebDriver initialized
+2025-12-11 09:25:19,448 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-11 09:25:19,450 - INFO - Usage logged: login - Starting login process
+2025-12-11 09:25:19,450 - INFO - Step 1: Going to Handshake...
+2025-12-11 09:25:25,123 - INFO - Step 2: Looking for school selection...
+2025-12-11 09:25:45,223 - INFO - ✓ Found school search field
+2025-12-11 09:25:45,369 - INFO - ✓ Entered school name
+2025-12-11 09:25:57,508 - INFO - ✓ Pressed Enter on school search
+2025-12-11 09:26:00,513 - INFO - Step 3: Checking for email input or SSO...
+2025-12-11 09:26:02,526 - INFO - Looking for email input...
+2025-12-11 09:26:02,586 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-11 09:26:05,090 - INFO - ✓ Submitted email
+2025-12-11 09:26:08,723 - INFO - ✓ Clicked Wright State SSO button
+2025-12-11 09:26:11,728 - INFO - Step 4: Entering Wright State credentials...
+2025-12-11 09:26:34,849 - INFO - ✓ Username entered
+2025-12-11 09:26:34,901 - INFO - ✓ Password entered
+2025-12-11 09:26:34,922 - INFO - ✓ Form submitted
+2025-12-11 09:26:44,944 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-11 09:26:45,054 - INFO - Usage logged: login - Login successful
+2025-12-11 09:26:45,054 - INFO - Navigating to postings page...
+2025-12-11 09:26:58,271 - INFO - 
+======================================================================
+2025-12-11 09:26:58,271 - INFO - 🔍 SEARCHING FOR JOBS
+2025-12-11 09:26:58,272 - INFO - ======================================================================
+2025-12-11 09:26:58,272 - INFO - Keywords: ALL
+2025-12-11 09:26:58,272 - INFO - Location: ALL
+2025-12-11 09:26:58,272 - INFO - Max Pages: 1
+2025-12-11 09:26:58,272 - INFO - ======================================================================
+
+2025-12-11 09:26:58,274 - INFO - Usage logged: search - Keywords: , Location: 
+2025-12-11 09:26:58,276 - INFO - Current URL: https://app.joinhandshake.com/job-search/10538533?page=1&per_page=25
+2025-12-11 09:26:58,276 - INFO - Navigating to postings page...
+2025-12-11 09:27:09,537 - INFO - ⏳ Waiting for page to load completely...
+2025-12-11 09:27:09,547 - INFO - ✓ Page loaded
+2025-12-11 09:27:14,552 - INFO - 📜 Scrolling to load content...
+2025-12-11 09:27:22,875 - INFO - ✓ Saved screenshot: debug_initial_page.png
+2025-12-11 09:27:22,876 - INFO - 
+🔍 Method 1: CSS Selectors
+2025-12-11 09:28:43,077 - INFO - 
+🔍 Method 2: JavaScript Extraction
+2025-12-11 09:28:43,084 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:28:43,084 - INFO - 
+🔍 Method 3: BeautifulSoup Parsing
+2025-12-11 09:28:43,182 - INFO -   ✓ Found 0 additional jobs via BeautifulSoup
+2025-12-11 09:28:43,182 - INFO - 
+======================================================================
+2025-12-11 09:28:43,183 - INFO - 📊 RESULTS AFTER FIRST PAGE
+2025-12-11 09:28:43,183 - INFO - ======================================================================
+2025-12-11 09:28:43,183 - INFO - Total unique job URLs found: 0
+2025-12-11 09:28:43,183 - INFO - ======================================================================
+
+2025-12-11 09:28:43,183 - WARNING - ⚠️ NO JOBS FOUND!
+2025-12-11 09:28:43,183 - INFO - 
+🔍 Debugging information:
+2025-12-11 09:28:43,216 - INFO -   ✓ Saved: debug_page_source.html
+2025-12-11 09:28:43,401 - INFO - 
+📄 Page content preview (first 500 chars):
+2025-12-11 09:28:43,401 - INFO - Skip to content
+Jobs
+Search
+Saved
+Explore
+Feed
+Inbox
+Jobs
+Events
+People
+Employers
+Career center
+22 profile views
+in the past 90 days
+Get the app
+Wright State collections
+Location
+Full-time job
+Internship
+Part time
+Filters
+10K+ jobs found
+Most relevant
+relevance
+application_deadline_asc
+application_deadline_desc
+posted_date_desc
+posted_date_asc
+Want to see more relevant jobs?
+Update career interests
+Wright State University On-Campus Student Employment
+Student Advocacy and Wellness, Raider Food Pa
+2025-12-11 09:28:43,412 - INFO - 
+🔗 Total links on page: 69
+2025-12-11 09:28:43,412 - INFO - First 10 links:
+2025-12-11 09:28:43,421 - INFO -   1. https://app.joinhandshake.com/job-search/10538533?page=1&per_page=25#skip-to-content | Text: Skip to content
+2025-12-11 09:28:43,428 - INFO -   2. https://app.joinhandshake.com/job-search | Text: Search
+2025-12-11 09:28:43,436 - INFO -   3. https://app.joinhandshake.com/saved-jobs | Text: Saved
+2025-12-11 09:28:43,444 - INFO -   4. https://app.joinhandshake.com/notifications?ref=navbar | Text: 
+2025-12-11 09:28:43,452 - INFO -   5. https://app.joinhandshake.com/profiles/bish | Text: 
+2025-12-11 09:28:43,459 - INFO -   6. https://app.joinhandshake.com/apps?ref=account-dropdown | Text: 
+2025-12-11 09:28:43,467 - INFO -   7. https://app.joinhandshake.com/stu/users/61107255/interviews | Text: 
+2025-12-11 09:28:43,474 - INFO -   8. https://app.joinhandshake.com/docs | Text: 
+2025-12-11 09:28:43,481 - INFO -   9. https://app.joinhandshake.com/stu/users/61107255/career_interests | Text: 
+2025-12-11 09:28:43,489 - INFO -   10. https://app.joinhandshake.com/notification-preferences | Text: 
+2025-12-11 09:28:43,491 - INFO - Usage logged: search_complete - Found 0 jobs
+2025-12-11 09:28:43,647 - INFO - 🔒 Closing browser...
+2025-12-11 09:28:43,859 - INFO - Usage logged: close - Browser closed
+2025-12-11 09:35:55,081 - INFO - Setting up Chrome WebDriver...
+2025-12-11 09:35:55,081 - INFO - ====== WebDriver manager ======
+2025-12-11 09:35:55,648 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:35:55,803 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:35:55,941 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-11 09:35:58,020 - INFO - ✅ WebDriver setup successful
+2025-12-11 09:35:58,033 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-11 09:35:58,041 - INFO - Step 1: Going to Handshake...
+2025-12-11 09:36:02,356 - INFO - Step 2: Looking for school selection...
+2025-12-11 09:36:22,493 - INFO - ✓ Found school search field
+2025-12-11 09:36:22,640 - INFO - ✓ Entered school name
+2025-12-11 09:36:34,722 - INFO - ✓ Pressed Enter on school search
+2025-12-11 09:36:37,728 - INFO - Step 3: Checking for email input or SSO...
+2025-12-11 09:36:39,746 - INFO - Looking for email input...
+2025-12-11 09:36:39,805 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-11 09:36:43,282 - INFO - ✓ Submitted email
+2025-12-11 09:36:46,991 - INFO - ✓ Clicked Wright State SSO button
+2025-12-11 09:36:49,997 - INFO - Step 4: Entering Wright State credentials...
+2025-12-11 09:37:13,124 - INFO - ✓ Username entered
+2025-12-11 09:37:13,245 - INFO - ✓ Password entered
+2025-12-11 09:37:13,258 - INFO - ✓ Form submitted
+2025-12-11 09:37:23,282 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-11 09:37:23,291 - INFO - Navigating to job search page...
+2025-12-11 09:37:39,660 - INFO - 
+======================================================================
+2025-12-11 09:37:39,661 - INFO - 🔍 SEARCHING FOR: ALL JOBS
+2025-12-11 09:37:39,661 - INFO - ======================================================================
+
+2025-12-11 09:37:42,675 - INFO - 📜 Scrolling to load content...
+2025-12-11 09:37:47,727 - INFO - 
+📄 SCRAPING PAGE 1/2
+2025-12-11 09:37:54,763 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:37:54,962 - INFO -   ✓ Found 25 jobs on this page
+2025-12-11 09:37:54,962 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:37:54,966 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:37:54,966 - INFO - 📊 Total unique jobs so far: 25
+2025-12-11 09:37:55,212 - INFO -   ✓ Clicked next page
+2025-12-11 09:38:00,217 - INFO - 
+📄 SCRAPING PAGE 2/2
+2025-12-11 09:38:07,255 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:38:07,464 - INFO -   ✓ Found 24 jobs on this page
+2025-12-11 09:38:07,464 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:38:07,467 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:38:07,467 - INFO - 📊 Total unique jobs so far: 49
+2025-12-11 09:38:07,467 - INFO - 
+======================================================================
+2025-12-11 09:38:07,467 - INFO - ✅ SEARCH COMPLETE: 49 jobs found
+2025-12-11 09:38:07,467 - INFO - ======================================================================
+
+2025-12-11 09:38:07,467 - INFO - Sample job URLs:
+2025-12-11 09:38:07,467 - INFO -   1. https://app.joinhandshake.com/job-search/10533118
+2025-12-11 09:38:07,467 - INFO -   2. https://app.joinhandshake.com/job-search/10560526
+2025-12-11 09:38:07,467 - INFO -   3. https://app.joinhandshake.com/job-search/10360945
+2025-12-11 09:38:07,467 - INFO -   4. https://app.joinhandshake.com/job-search/10544993
+2025-12-11 09:38:07,467 - INFO -   5. https://app.joinhandshake.com/job-search/10486941
+2025-12-11 09:38:07,467 - INFO -   ... and 44 more
+2025-12-11 09:38:13,807 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10533118
+2025-12-11 09:38:19,354 - INFO - ✅ Scraped: IT Technician Intern - Summer 2026
+2025-12-11 09:38:21,360 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10560526
+2025-12-11 09:38:25,581 - INFO - ✅ Scraped: API Developer Intern
+2025-12-11 09:38:27,586 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10360945
+2025-12-11 09:38:33,728 - INFO - ✅ Scraped: Office of Disability Services, Scanner 2
+2025-12-11 09:38:35,735 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10544993
+2025-12-11 09:38:41,678 - INFO - ✅ Scraped: College of Liberal Arts, Peer Mentor
+2025-12-11 09:38:43,683 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10486941
+2025-12-11 09:38:49,544 - INFO - ✅ Scraped: On-Site Part-Time Coding Instructor (Sensei)
+2025-12-11 09:38:51,550 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10165952
+2025-12-11 09:38:56,621 - INFO - ✅ Scraped: UDRI Summer Intern 2026
+2025-12-11 09:38:58,622 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10336954
+2025-12-11 09:39:02,664 - INFO - ✅ Scraped: Office of Disability Services, Personal Assistant II
+2025-12-11 09:39:04,670 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10516584
+2025-12-11 09:39:09,631 - INFO - ✅ Scraped: Electrical Engineering, Help Room Assistant
+2025-12-11 09:39:11,636 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10498720
+2025-12-11 09:39:17,601 - INFO - ✅ Scraped: Chemistry, Laboratory Teaching Assistant
+2025-12-11 09:39:19,607 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10520727
+2025-12-11 09:39:24,837 - INFO - ✅ Scraped: 2026 Summer Internships - Dayton
+2025-12-11 09:39:26,865 - INFO - ✅ Saved 10 jobs to internships_20251211_093926.csv
+2025-12-11 09:39:26,886 - INFO - ✅ Updated internships.csv
+2025-12-11 09:39:26,886 - INFO - 🔒 Closing browser...
+2025-12-11 09:48:16,761 - INFO - Setting up Chrome WebDriver...
+2025-12-11 09:48:16,762 - INFO - ====== WebDriver manager ======
+2025-12-11 09:48:18,142 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:48:18,387 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:48:18,518 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-11 09:48:20,957 - INFO - ✅ WebDriver setup successful
+2025-12-11 09:48:20,961 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-11 09:48:20,964 - INFO - Step 1: Going to Handshake...
+2025-12-11 09:48:25,074 - INFO - Step 2: Looking for school selection...
+2025-12-11 09:48:45,145 - INFO - ✓ Found school search field
+2025-12-11 09:48:45,321 - INFO - ✓ Entered school name
+2025-12-11 09:48:57,377 - INFO - ✓ Pressed Enter on school search
+2025-12-11 09:49:00,382 - INFO - Step 3: Checking for email input or SSO...
+2025-12-11 09:49:02,395 - INFO - Looking for email input...
+2025-12-11 09:49:02,456 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-11 09:49:04,955 - INFO - ✓ Submitted email
+2025-12-11 09:49:08,654 - INFO - ✓ Clicked Wright State SSO button
+2025-12-11 09:49:11,658 - INFO - Step 4: Entering Wright State credentials...
+2025-12-11 09:49:34,777 - INFO - ✓ Username entered
+2025-12-11 09:49:34,888 - INFO - ✓ Password entered
+2025-12-11 09:49:34,902 - INFO - ✓ Form submitted
+2025-12-11 09:49:44,918 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-11 09:49:44,929 - INFO - Navigating to job search page...
+2025-12-11 09:49:51,465 - INFO - 
+======================================================================
+2025-12-11 09:49:51,466 - INFO - 🔍 SEARCHING FOR: ALL JOBS
+2025-12-11 09:49:51,466 - INFO - ======================================================================
+
+2025-12-11 09:49:54,475 - INFO - 📜 Scrolling to load content...
+2025-12-11 09:49:59,530 - INFO - 
+📄 SCRAPING PAGE 1/1
+2025-12-11 09:50:06,573 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:50:06,784 - INFO -   ✓ Found 25 jobs on this page
+2025-12-11 09:50:06,785 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:50:06,788 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:50:06,788 - INFO - 📊 Total unique jobs so far: 25
+2025-12-11 09:50:06,788 - INFO - 
+======================================================================
+2025-12-11 09:50:06,788 - INFO - ✅ SEARCH COMPLETE: 25 jobs found
+2025-12-11 09:50:06,788 - INFO - ======================================================================
+
+2025-12-11 09:50:06,793 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10523051
+2025-12-11 09:50:10,793 - INFO - ✅ Scraped: Front-End Web Developer Intern
+2025-12-11 09:50:12,802 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10359553
+2025-12-11 09:50:16,633 - INFO - ✅ Scraped: UDRI SOC Analyst Intern
+2025-12-11 09:50:18,641 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10538533
+2025-12-11 09:50:22,477 - INFO - ✅ Scraped: Student Advocacy and Wellness, Raider Food Pantry, Office Assistant
+2025-12-11 09:50:24,486 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10486941
+2025-12-11 09:50:28,335 - INFO - ✅ Scraped: On-Site Part-Time Coding Instructor (Sensei)
+2025-12-11 09:50:30,343 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10360945
+2025-12-11 09:50:34,166 - INFO - ✅ Scraped: Office of Disability Services, Scanner 2
+2025-12-11 09:50:36,176 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10560595
+2025-12-11 09:50:39,968 - INFO - ✅ Scraped: Marketing Intern
+2025-12-11 09:50:41,977 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10552783
+2025-12-11 09:50:45,806 - INFO - ✅ Scraped: Alumni Relations, Office/Events Assistant
+2025-12-11 09:50:47,813 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10533118
+2025-12-11 09:50:51,603 - INFO - ✅ Scraped: IT Technician Intern - Summer 2026
+2025-12-11 09:50:53,612 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10336954
+2025-12-11 09:50:57,501 - INFO - ✅ Scraped: Office of Disability Services, Personal Assistant II
+2025-12-11 09:50:59,519 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10544993
+2025-12-11 09:51:03,385 - INFO - ✅ Scraped: College of Liberal Arts, Peer Mentor
+2025-12-11 09:51:05,422 - INFO - ✅ Saved 10 jobs to internships_20251211_095105.csv
+2025-12-11 09:51:05,426 - INFO - ✅ Created internships.csv
+2025-12-11 09:51:05,427 - INFO - 🔒 Closing browser...
+2025-12-11 09:53:15,700 - INFO - Setting up Chrome WebDriver...
+2025-12-11 09:53:15,700 - INFO - ====== WebDriver manager ======
+2025-12-11 09:53:16,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:53:16,360 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 09:53:16,492 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-11 09:53:18,757 - INFO - ✅ WebDriver setup successful
+2025-12-11 09:53:18,760 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-11 09:53:18,761 - INFO - Step 1: Going to Handshake...
+2025-12-11 09:53:22,880 - INFO - Step 2: Looking for school selection...
+2025-12-11 09:53:42,919 - INFO - ✓ Found school search field
+2025-12-11 09:53:43,064 - INFO - ✓ Entered school name
+2025-12-11 09:53:55,210 - INFO - ✓ Pressed Enter on school search
+2025-12-11 09:53:58,216 - INFO - Step 3: Checking for email input or SSO...
+2025-12-11 09:54:00,230 - INFO - Looking for email input...
+2025-12-11 09:54:00,292 - INFO - ✓ Email entered: thapa.153@wright.edu
+2025-12-11 09:54:02,928 - INFO - ✓ Submitted email
+2025-12-11 09:54:06,599 - INFO - ✓ Clicked Wright State SSO button
+2025-12-11 09:54:09,605 - INFO - Step 4: Entering Wright State credentials...
+2025-12-11 09:54:32,730 - INFO - ✓ Username entered
+2025-12-11 09:54:32,779 - INFO - ✓ Password entered
+2025-12-11 09:54:32,792 - INFO - ✓ Form submitted
+2025-12-11 09:54:42,810 - INFO - ✅ Login successful! URL: https://wright.joinhandshake.com/explore
+2025-12-11 09:54:42,815 - INFO - Navigating to job search page...
+2025-12-11 09:54:49,809 - INFO - 
+======================================================================
+2025-12-11 09:54:49,810 - INFO - 🔍 SEARCHING FOR: computer science
+2025-12-11 09:54:49,810 - INFO - ======================================================================
+
+2025-12-11 09:54:52,819 - INFO - 📜 Scrolling to load content...
+2025-12-11 09:54:58,163 - INFO - ✓ Entered search: computer science
+2025-12-11 09:54:59,430 - INFO - ✓ Pressed Enter
+2025-12-11 09:55:04,436 - INFO - 
+📄 SCRAPING PAGE 1/5
+2025-12-11 09:55:11,475 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:55:11,686 - INFO -   ✓ Found 25 jobs on this page
+2025-12-11 09:55:11,686 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:55:11,690 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:55:11,690 - INFO - 📊 Total unique jobs so far: 25
+2025-12-11 09:55:11,971 - INFO -   ✓ Clicked next page
+2025-12-11 09:55:16,977 - INFO - 
+📄 SCRAPING PAGE 2/5
+2025-12-11 09:55:24,014 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:55:24,219 - INFO -   ✓ Found 24 jobs on this page
+2025-12-11 09:55:24,219 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:55:24,222 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:55:24,222 - INFO - 📊 Total unique jobs so far: 49
+2025-12-11 09:55:24,428 - INFO -   ✓ Clicked next page
+2025-12-11 09:55:29,433 - INFO - 
+📄 SCRAPING PAGE 3/5
+2025-12-11 09:55:36,470 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:55:36,666 - INFO -   ✓ Found 24 jobs on this page
+2025-12-11 09:55:36,666 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:55:36,669 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:55:36,669 - INFO - 📊 Total unique jobs so far: 73
+2025-12-11 09:55:36,880 - INFO -   ✓ Clicked next page
+2025-12-11 09:55:41,885 - INFO - 
+📄 SCRAPING PAGE 4/5
+2025-12-11 09:55:48,926 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:55:49,116 - INFO -   ✓ Found 20 jobs on this page
+2025-12-11 09:55:49,116 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:55:49,119 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:55:49,119 - INFO - 📊 Total unique jobs so far: 93
+2025-12-11 09:55:49,325 - INFO -   ✓ Clicked next page
+2025-12-11 09:55:54,330 - INFO - 
+📄 SCRAPING PAGE 5/5
+2025-12-11 09:56:01,363 - INFO - Method 1: CSS Selectors for /job-search/ URLs...
+2025-12-11 09:56:01,600 - INFO -   ✓ Found 23 jobs on this page
+2025-12-11 09:56:01,600 - INFO - Method 2: JavaScript extraction...
+2025-12-11 09:56:01,603 - INFO -   ✓ Found 0 additional jobs via JavaScript
+2025-12-11 09:56:01,603 - INFO - 📊 Total unique jobs so far: 116
+2025-12-11 09:56:01,603 - INFO - 
+======================================================================
+2025-12-11 09:56:01,603 - INFO - ✅ SEARCH COMPLETE: 116 jobs found
+2025-12-11 09:56:01,603 - INFO - ======================================================================
+
+2025-12-11 09:56:01,610 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10454330
+2025-12-11 09:56:07,070 - INFO - ✅ Scraped: Dept of Math & Statistics, Statistics 2640 Lab Assistant
+2025-12-11 09:56:09,079 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10486941
+2025-12-11 09:56:12,654 - INFO - ✅ Scraped: On-Site Part-Time Coding Instructor (Sensei)
+2025-12-11 09:56:14,662 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10360945
+2025-12-11 09:56:18,427 - INFO - ✅ Scraped: Office of Disability Services, Scanner 2
+2025-12-11 09:56:20,440 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10244933
+2025-12-11 09:56:24,216 - INFO - ✅ Scraped: Software Engineer & Computer Science - Recent Grad/Full Time
+2025-12-11 09:56:26,225 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10263348
+2025-12-11 09:56:30,051 - INFO - ✅ Scraped: Data Science Intern - Summer 2026
+2025-12-11 09:56:32,065 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10559081
+2025-12-11 09:56:35,876 - INFO - ✅ Scraped: Enterprise IT Intern
+2025-12-11 09:56:37,884 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10443802
+2025-12-11 09:56:41,740 - INFO - ✅ Scraped: Campus Recreation, Recreation Desk Assistant
+2025-12-11 09:56:43,750 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10498720
+2025-12-11 09:56:48,432 - INFO - ✅ Scraped: Chemistry, Laboratory Teaching Assistant
+2025-12-11 09:56:50,440 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10231611
+2025-12-11 09:56:54,407 - INFO - ✅ Scraped: Information Systems, IT, Cyber Engineer & Data Science (Recent Grad/Full Time)
+2025-12-11 09:56:56,416 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10348591
+2025-12-11 09:57:00,436 - INFO - ✅ Scraped: Neuroscience, Cell Biology and Physiology, Research Assistant
+2025-12-11 09:57:02,445 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10541088
+2025-12-11 09:57:06,201 - INFO - ✅ Scraped: AI & Data Science Intern
+2025-12-11 09:57:08,209 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10237214
+2025-12-11 09:57:11,973 - INFO - ✅ Scraped: Artificial Intelligence/Machine Learning - Summer 2026 Intern
+2025-12-11 09:57:13,980 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10470791
+2025-12-11 09:57:17,728 - INFO - ✅ Scraped: Alumni Association, Marketing & Communications Assistant
+2025-12-11 09:57:19,736 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10348595
+2025-12-11 09:57:23,494 - INFO - ✅ Scraped: Data Science Intern
+2025-12-11 09:57:25,506 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10385780
+2025-12-11 09:57:29,433 - INFO - ✅ Scraped: Academic Success Centers, Math Learning Center Leader, Level 1
+2025-12-11 09:57:31,443 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10360939
+2025-12-11 09:57:35,354 - INFO - ✅ Scraped: Mechanical & Materials Engineering, EGR 1010 Recitation/Lab Teaching Assistant
+2025-12-11 09:57:37,362 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10454344
+2025-12-11 09:57:41,115 - INFO - ✅ Scraped: Dept of Math & Statistics, Class Lab Assistant
+2025-12-11 09:57:43,123 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10525844
+2025-12-11 09:57:47,414 - INFO - ✅ Scraped: Data Science Intern
+2025-12-11 09:57:49,426 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10478385
+2025-12-11 09:57:53,472 - INFO - ✅ Scraped: IT Internship
+2025-12-11 09:57:55,508 - INFO - ✅ Saved 19 jobs to internships_20251211_095755.csv
+2025-12-11 09:57:55,533 - INFO - ✅ Updated internships.csv
+2025-12-11 09:57:55,534 - INFO - 🔒 Closing browser...
+2025-12-11 10:10:13,235 - INFO - Setting up Chrome WebDriver...
+2025-12-11 10:10:13,236 - INFO - ====== WebDriver manager ======
+2025-12-11 10:10:13,773 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 10:10:13,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 10:10:14,078 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-11 10:10:16,146 - INFO - ✅ WebDriver setup successful
+2025-12-11 10:10:16,149 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-11 10:10:16,151 - INFO - Step 1: Going to Handshake...
+2025-12-11 10:10:20,195 - INFO - Step 2: Looking for school selection...
+2025-12-11 10:10:40,228 - INFO - Step 3: Checking for email input or SSO...
+2025-12-11 10:10:48,353 - INFO - Step 4: Entering Wright State credentials...
+2025-12-11 10:10:53,539 - INFO - ✅ Login successful!
+2025-12-11 10:10:53,556 - INFO - 🔍 SEARCHING FOR: 
+2025-12-11 10:10:57,766 - INFO - 📄 Scraping page 1/1
+2025-12-11 10:10:59,798 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10435894
+2025-12-11 10:11:02,778 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10491969
+2025-12-11 10:11:05,717 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10437434
+2025-12-11 10:11:08,605 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10533101
+2025-12-11 10:11:11,510 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10552783
+2025-12-11 10:11:14,843 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10360945
+2025-12-11 10:11:17,741 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10531225
+2025-12-11 10:11:20,624 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10503809
+2025-12-11 10:11:23,608 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10486941
+2025-12-11 10:11:27,187 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10560595
+2025-12-11 10:11:30,169 - INFO - ✅ Saved to internships_20251211_101130.csv and updated master file
+2025-12-11 12:19:53,833 - INFO - Setting up Chrome WebDriver...
+2025-12-11 12:19:53,834 - INFO - ====== WebDriver manager ======
+2025-12-11 12:20:00,060 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 12:20:00,199 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-11 12:20:00,308 - INFO - Driver [/Users/bishalthapa/.wdm/drivers/chromedriver/mac64/143.0.7499.42/chromedriver-mac-arm64/chromedriver] found in cache
+2025-12-11 12:20:02,274 - INFO - ✅ WebDriver setup successful
+2025-12-11 12:20:02,276 - INFO - 🔐 Logging in to Handshake via Wright State...
+2025-12-11 12:20:02,278 - INFO - Step 1: Going to Handshake...
+2025-12-11 12:20:07,782 - INFO - Step 2: Looking for school selection...
+2025-12-11 12:20:27,888 - INFO - Step 3: Checking for email input or SSO...
+2025-12-11 12:20:35,182 - INFO - Step 4: Entering Wright State credentials...
+2025-12-11 12:20:40,335 - INFO - ✅ Login successful!
+2025-12-11 12:20:40,361 - INFO - 🔍 SEARCHING FOR: computer science
+2025-12-11 12:20:49,586 - INFO - 📄 Scraping page 1/4
+2025-12-11 12:21:01,657 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10491969
+2025-12-11 12:21:04,460 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10516479
+2025-12-11 12:21:07,154 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10516584
+2025-12-11 12:21:09,997 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10442692
+2025-12-11 12:21:12,919 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10454344
+2025-12-11 12:21:15,590 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10486941
+2025-12-11 12:21:18,610 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10560562
+2025-12-11 12:21:21,475 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/9656486
+2025-12-11 12:21:24,588 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10497718
+2025-12-11 12:21:27,995 - INFO - 📋 Scraping: https://app.joinhandshake.com/job-search/10383484
+2025-12-11 12:21:31,302 - INFO - ✅ Saved to internships_20251211_122131.csv and updated master file

@@ -1,0 +1,191 @@
+url,date_scraped,source,title,company,location,description,requirements,job_type
+https://app.joinhandshake.com/job-search/10454330,2025-12-11 09:56:01,Handshake,"Dept of Math & Statistics, Statistics 2640 Lab Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10486941,2025-12-11 09:56:09,Handshake,On-Site Part-Time Coding Instructor (Sensei),Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10360945,2025-12-11 09:56:14,Handshake,"Office of Disability Services, Scanner 2",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10244933,2025-12-11 09:56:20,Handshake,Software Engineer & Computer Science - Recent Grad/Full Time,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10263348,2025-12-11 09:56:26,Handshake,Data Science Intern - Summer 2026,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10559081,2025-12-11 09:56:32,Handshake,Enterprise IT Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10443802,2025-12-11 09:56:37,Handshake,"Campus Recreation, Recreation Desk Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10498720,2025-12-11 09:56:43,Handshake,"Chemistry, Laboratory Teaching Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10231611,2025-12-11 09:56:50,Handshake,"Information Systems, IT, Cyber Engineer & Data Science (Recent Grad/Full Time)",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10348591,2025-12-11 09:56:56,Handshake,"Neuroscience, Cell Biology and Physiology, Research Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10541088,2025-12-11 09:57:02,Handshake,AI & Data Science Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10237214,2025-12-11 09:57:08,Handshake,Artificial Intelligence/Machine Learning - Summer 2026 Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10470791,2025-12-11 09:57:13,Handshake,"Alumni Association, Marketing & Communications Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10348595,2025-12-11 09:57:19,Handshake,Data Science Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10385780,2025-12-11 09:57:25,Handshake,"Academic Success Centers, Math Learning Center Leader, Level 1",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10360939,2025-12-11 09:57:31,Handshake,"Mechanical & Materials Engineering, EGR 1010 Recitation/Lab Teaching Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10454344,2025-12-11 09:57:37,Handshake,"Dept of Math & Statistics, Class Lab Assistant",Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10525844,2025-12-11 09:57:43,Handshake,Data Science Intern,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship
+https://app.joinhandshake.com/job-search/10478385,2025-12-11 09:57:49,Handshake,IT Internship,Unknown Company,"!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646099589226753');
+fbq('track', 'PageView');",No Description,N/A,Internship

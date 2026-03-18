@@ -1,0 +1,16 @@
+{
+  "searches": [
+    {
+      "major": "Computer Science",
+      "location": "Remote",
+      "max_pages": 2
+    },
+    {
+      "major": "Software Engineering",
+      "location": "Ohio",
+      "max_pages": 2
+    }
+  ],
+  "max_jobs_per_search": 10,
+  "output_format": "csv"
+}
